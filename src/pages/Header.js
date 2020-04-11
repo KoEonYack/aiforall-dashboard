@@ -1,7 +1,5 @@
 import React from 'react';
-import styled from 'styled-components';
 import jquery from 'jquery';
-window.$ = window.jQuery=jquery;
 
 function Header() {
     return (
@@ -19,8 +17,6 @@ function Header() {
             <div className="warp-header">
             <div className="type-wrap">
                 모인활 대시보드 7주차
-                {/* <span id="typed"> </span>
-                <span className="typed-cursor">|</span> */}
             </div>
             </div>
 
@@ -31,20 +27,6 @@ function Header() {
                     </a>
                 </div>
             </div>
-
-
-            {/* <div class="hello">
-                <h1>Web Development Tutorial</h1>
-                <div class="type-wrap">
-                    Learn to code
-                    <span id="typed" style="white-space:pre;"></span>
-                </div>
-            </div>
-            <div id="scroll-icon"><i class="fa fa-angle-double-down"></i></div>
-
-            <a href="https://github.com/ungmo2" target="_blank">
-                <i class="fa fa-github"></i>
-            </a> */}
         </section>
     )
 }
