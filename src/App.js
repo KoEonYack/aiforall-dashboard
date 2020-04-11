@@ -3,7 +3,8 @@ import { Route } from 'react-router-dom';
 import { BrowserRouter as Router } from 'react-router-dom';
 import "./App.css";
 import HeaderPage from './pages/Header'
-import Lectures from './pages/Container'
+import Container from './pages/Container'
+import Lectures from './pages/Lectures'
 
 import $ from 'jquery';
 window.jQuery = $;
@@ -15,7 +16,7 @@ const App = () => {
   return (
       <Router>
         <HeaderPage />
-        <Lectures />
+        <Container />
       </Router>
   );
 };

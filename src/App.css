@@ -6,9 +6,9 @@
   user-select:none;
 }
 
-a:link { color: black; text-decoration: none;}
-a:visited { color: black; text-decoration: none;}
-a:hover { color: black; text-decoration: none;}
+a:link { color: #00299b;; text-decoration: none;}
+a:visited { color: #00299b;; text-decoration: none;}
+a:hover { color: #00299b;; text-decoration: none;}
 
 
 .HeaderSection {
@@ -51,7 +51,7 @@ a:hover { color: black; text-decoration: none;}
   /* vertical-align: baseline; */
   background: transparent;
 
-  top: 40%;
+  top: 32%;
   text-align: center;
   left: 20%;
   position: absolute;
@@ -61,16 +61,15 @@ a:hover { color: black; text-decoration: none;}
   padding: 20px 0;
   text-align: center;
   text-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
-  bottom: 50px;
+  bottom: 0.5vw;
   left: 90%;
   position: absolute;
 }
 
 
-
 .GitIcon {
   display: block;
-  font-size: 34px;
+  font-size: 38px;
   width: 32px;
   text-align: center;
 }
@@ -93,7 +92,7 @@ a:hover { color: black; text-decoration: none;}
   color: white;
   font-size: 6vw;
   text-align: center;
-  top: 47%;
+  top: 45%;
   position: absolute;
   margin-left: 15%;
 
@@ -110,3 +109,4 @@ a:hover { color: black; text-decoration: none;}
 #typed {
   white-space:pre;
 }
+

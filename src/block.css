@@ -1,0 +1,55 @@
+.block-header {
+    border-radius: 5px 5px 0 0;
+    background-color: #333333;;
+    border-bottom: 1px solid #44475b;
+    padding-top: 1.3vw;
+    padding-bottom: 1.3vw;
+    padding-left: 1.4vw;
+
+}
+
+.block-content {
+    background-color: white;
+    padding: 0.8vw;
+    font-size: 1.4rem;
+    padding-left: 1.4vw;
+    padding-right: 1.4vw;
+}
+
+.block-title {
+    color: white;
+    font-size: 1.8rem;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.border-box {
+    background-color: rgb(252, 144, 144);
+    padding: 5vw;
+}
+
+.table {
+
+}
+
+.table-hover {
+    font-size: 1.4rem;
+    font-color: black;
+}
+
+
+
+.over-due{
+    font-weight: bold;
+    color: black;
+    text-decoration:line-through;
+}
+
+.in-due{
+    font-weight: bold;
+    color: rgb(23, 172, 70);
+}
+
+.future-due {
+    color: rgb(170, 170, 170);
+}
