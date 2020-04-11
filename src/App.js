@@ -3,7 +3,8 @@ import { Route } from 'react-router-dom';
 import { BrowserRouter as Router } from 'react-router-dom';
 import "./App.css";
 import HeaderPage from './pages/Header'
-import Lectures from './pages/Lectures'
+import Lectures from './pages/Container'
+
 import $ from 'jquery';
 window.jQuery = $;
 window.$ = $;

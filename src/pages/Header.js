@@ -16,15 +16,19 @@ function Header() {
                 20-Spring Semister AI For All Dashboard!
             </div>
 
+            <div className="warp-header">
             <div className="type-wrap">
-                Learn to code &nbsp;
-                <span id="typed"> </span>
-                <span className="typed-cursor">|</span>
+                모인활 대시보드 Week8
+                {/* <span id="typed"> </span>
+                <span className="typed-cursor">|</span> */}
+            </div>
             </div>
 
             <div className="SocialSection">
                 <div className="GitIcon">
-                    <i className="fa fa-github"></i>
+                    <a href="https://github.com/KoEonYack/">
+                        <i className="fa fa-github" id="test"></i>
+                    </a>
                 </div>
             </div>
 
