@@ -8,6 +8,8 @@ function KMOOC_Famouse() {
                     <div className="block-title">3-1. KMOOC 명강의 퀴즈 응시 일정</div>
             </div>
             <div className="block-content">
+            <p>- <a href="https://piazza.com/class/k7222vwq8y61ni?cid=166">[공지] KMOOC 명강의 Part 수강법에 대해서 알려드립니다.</a>에서 응시 방법을 확인하세요!</p>
+
             <table class="table table-hover">
                 <thead>
                   <tr>
@@ -21,7 +23,6 @@ function KMOOC_Famouse() {
                         <th scope="col" class="table-head-data"> KMOOC 명강의 1주차 퀴즈</th>    
                         <td scope="col" class="table-head-data"> <div class="over-due">2주차 월요일 9:30 ~ 3주차 월요일 23:55</div> </td>   
                         <td scope="col" class="table-head-data"> 응시 기간 내 KMOOC에서 시험 응시 </td> 
-
                     </tr>
                     <tr>
                         <th scope="col" class="table-head-data">KMOOC 명강의 2주차 퀴즈</th>    
