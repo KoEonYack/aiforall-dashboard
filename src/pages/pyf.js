@@ -6,6 +6,7 @@ function pyf() {
             <div className="block-header">
                 <div className="block-title">3-3. [종료] Py4e 과제 제출 일정</div>
             </div>
+            <div className="end">
                 <div className="block-content end">
                     <table class="table table-hover">
                         <thead>
@@ -32,6 +33,7 @@ function pyf() {
                     - Py4e Ch2 Exercise 과제를 끝으로 Py4e 과제는 없습니다. 자유롭게 자습하세요~ <br/>
                     - Py4e Ch2 Exercise 과제는 점수에 들어갑니다.
                 </div>
+            </div>
         </div>
     )
 }

@@ -95,7 +95,6 @@ a:hover { color: #00299b;; text-decoration: none;}
   top: 45%;
   position: absolute;
   margin-left: 15%;
-
 }
 
 .typed-cursor {
@@ -116,6 +115,13 @@ body {
   font-weight: 500
 }
 
-.end {
-  color: black;
+
+::-moz-selection {
+  background: #B8860B;
+  color: #fff;
+}
+
+::selection {
+  background: #B8860B;
+  color: #fff;
 }

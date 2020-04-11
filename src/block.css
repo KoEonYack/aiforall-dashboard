@@ -25,7 +25,8 @@
 }
 
 .border-box {
-    background-color: rgb(252, 144, 144);
+    /* background-color: rgb(252, 144, 144); */
+    background: radial-gradient(rgb(239, 224, 222), rgb(230, 177, 142)) fixed;
     padding: 5vw;
 }
 
@@ -61,8 +62,16 @@
 }
 
 
+  .bottom-logo {
+    background-color: rgb(241,243,246); 
+    height: 65px; padding-top: 14px; 
+    border-top: 1.3px solid rgb(163, 163, 163);
+  }
 
-.end {
-    background-color: rgba(170, 170, 170, 0.76);
-    z-index: 3;
+  .bottom-p {
+    text-align: center
+  }
+
+  tr {
+      text-align: center;
   }

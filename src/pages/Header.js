@@ -18,7 +18,7 @@ function Header() {
 
             <div className="warp-header">
             <div className="type-wrap">
-                모인활 대시보드 Week8
+                모인활 대시보드 7주차
                 {/* <span id="typed"> </span>
                 <span className="typed-cursor">|</span> */}
             </div>

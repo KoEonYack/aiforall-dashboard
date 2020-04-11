@@ -9,7 +9,6 @@ function Bible() {
             <div className="block-content">
                 <br />
                 <img src="https://github.com/KoEonYack/koeonyack.github.io/blob/master/img/week7.jpg?raw=true" width="35%"  className="bible-img" />
-                <center>Week7 Message</center>
                 <br/>
                 <center> 
                     <i className="fa fa-youtube-play youtube-icon"></i> 
