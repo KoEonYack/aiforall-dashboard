@@ -14,16 +14,16 @@ function Container() {
     return (
         <div>
             <div className="border-box">
-            <Lectures />
-            <Announce />
-            <KMOOC_Famouse />
-            <KMOOC_AI />
-            <PYF />
-            <Project />
-            <Score />
-            <Bible />
-        </div>
-        <Footer />
+                <Lectures />
+                <Announce />
+                <KMOOC_Famouse />
+                <KMOOC_AI />
+                <PYF />
+                <Project />
+                <Score />
+                <Bible />
+            </div>
+            <Footer />
         </div>
 
     )

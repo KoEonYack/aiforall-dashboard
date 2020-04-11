@@ -181,7 +181,7 @@ function Lectures() {
                                 <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/09Functions.ipynb">[Github] 09Functions.ipynb</a>
                             </td>  
                             <td>
-                                <div class="in-due">4/10 23:55</div>
+                                <div class="over-due">4/10 23:55</div>
                                 <div class="in-due">4/13 23:55</div>
                             </td>
                             <td>
@@ -192,14 +192,6 @@ function Lectures() {
                     </tbody>
                 </table>
             </div>
-
-            
-
-            
-
-
-
-
         </div>
     )
 }
