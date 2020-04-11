@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8dd9bc13a926af0c556b45a3a60de203",
+    "revision": "7e2b6621b93c462e153b476f0bafb6b9",
     "url": "/github.io/aiforall-dashboard/index.html"
   },
   {
-    "revision": "9934c1034556db369000",
+    "revision": "aedcbfe13c59f10bf44f",
     "url": "/github.io/aiforall-dashboard/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "a29815e8254410eb32c9",
+    "revision": "cdf8d693c190e6793587",
     "url": "/github.io/aiforall-dashboard/static/css/main.6104c46b.chunk.css"
   },
   {
-    "revision": "9934c1034556db369000",
-    "url": "/github.io/aiforall-dashboard/static/js/2.44fe1536.chunk.js"
+    "revision": "aedcbfe13c59f10bf44f",
+    "url": "/github.io/aiforall-dashboard/static/js/2.4d689f2b.chunk.js"
   },
   {
     "revision": "6e71b6ee5ea7775d33431df95d229f09",
-    "url": "/github.io/aiforall-dashboard/static/js/2.44fe1536.chunk.js.LICENSE.txt"
+    "url": "/github.io/aiforall-dashboard/static/js/2.4d689f2b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a29815e8254410eb32c9",
-    "url": "/github.io/aiforall-dashboard/static/js/main.62eaecce.chunk.js"
+    "revision": "cdf8d693c190e6793587",
+    "url": "/github.io/aiforall-dashboard/static/js/main.cb30efc7.chunk.js"
   },
   {
     "revision": "bcf2d22470f9103b3416",
