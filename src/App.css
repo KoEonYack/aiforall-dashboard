@@ -110,3 +110,12 @@ a:hover { color: #00299b;; text-decoration: none;}
   white-space:pre;
 }
 
+
+body {
+  font-family: 'NanumSquare', sans-serif;
+  font-weight: 500
+}
+
+.end {
+  color: black;
+}

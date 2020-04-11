@@ -5,7 +5,6 @@
     padding-top: 1.3vw;
     padding-bottom: 1.3vw;
     padding-left: 1.4vw;
-
 }
 
 .block-content {
@@ -15,6 +14,7 @@
     padding-left: 1.4vw;
     padding-right: 1.4vw;
     padding-bottom: 3vw;
+    box-shadow: -50px 0px 70px -80px #000000, 50px 0px 70px -80px #000000;
 }
 
 .block-title {
@@ -29,15 +29,11 @@
     padding: 5vw;
 }
 
-.table {
-
-}
 
 .table-hover {
     font-size: 1.4rem;
     font-color: black;
 }
-
 
 
 .over-due{
@@ -54,3 +50,19 @@
 .future-due {
     color: rgb(170, 170, 170);
 }
+
+
+.bible-img {
+    display: block; margin: 0px auto; max-width: 100%; height: auto; border:1px solid #eaeaea; padding: 0px;
+}
+
+.youtube-icon {
+    font-size:22px;color:red
+}
+
+
+
+.end {
+    background-color: rgba(170, 170, 170, 0.76);
+    z-index: 3;
+  }

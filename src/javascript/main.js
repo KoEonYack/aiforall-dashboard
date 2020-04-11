@@ -109,7 +109,7 @@ jQuery(document).ready(function ($) {
       // enter key
       if (e.keyCode === 13) {
         console.log("Enter Key");
-        // document.execCommand('insertHTML', false, '<br>');
+        // document.execCommand('insertHTML', false, '  <br/>');
         document.execCommand('insertHTML', false, '\n');
         // prevent the default behaviour of return key pressed
         return false;

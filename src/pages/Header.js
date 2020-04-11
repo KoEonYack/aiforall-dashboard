@@ -8,9 +8,7 @@ function Header() {
         <section className="HeaderSection">
             <div className="PageHeader">
                 <div className="LogoContainer no-drag">
-                    <a href="http://covenant.tistory.com/">
                         Covenant LAB
-                    </a>
                 </div>
             </div>
 
