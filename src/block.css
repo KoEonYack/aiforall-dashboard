@@ -28,6 +28,7 @@
     /* background-color: rgb(252, 144, 144); */
     background: radial-gradient(rgb(239, 224, 222), rgb(230, 177, 142)) fixed;
     padding: 5vw;
+    padding-bottom: 7.5vw;
 }
 
 

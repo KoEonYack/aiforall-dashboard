@@ -61,7 +61,7 @@ function Lectures() {
                             <td>KMOOC 1주차 강의 수강</td>
                             <td>KMOOC 1주차 모든 퀴즈 응시</td>
                             <td><div class="over-due">3/16 23:55</div></td>
-                            <td>기간 내 퀴즈응시하면 출석</td>
+                            <td>기간 내 퀴즈 응시하면 출석</td>
                         </tr>
                         <tr>
                             <th scope="row" class="table-head-data" >2주차 금 (3/13)</th>
@@ -82,7 +82,7 @@ function Lectures() {
                             <td>KMOOC 2주차 강의 수강</td> 
                             <td>KMOOC 2차 모든 퀴즈 응시</td>  
                             <td><div class="over-due">3/23 23:55</div></td>
-                            <td>기간 내 퀴즈응시하면 출석</td> 
+                            <td>기간 내 퀴즈 응시하면 출석</td> 
                         </tr>
                         <tr>
                             <th scope="row" class="table-head-data">3주차 금 (3/17)</th>
@@ -107,7 +107,7 @@ function Lectures() {
                             <td>KMOOC 3주차 강의 수강</td>
                             <td>KMOOC 3주차 모든 퀴즈 응시</td>  
                             <td><div class="over-due">3/30 23:55</div></td>
-                            <td>기간 내 퀴즈응시하면 출석</td> 
+                            <td>기간 내 퀴즈 응시하면 출석</td> 
                         </tr>
                         <tr>
                             <th scope="row" class="table-head-data">4주차 금 (3/27)</th>
@@ -137,7 +137,7 @@ function Lectures() {
                                 <div class="over-due">4/06 23:55</div>
                             </td>
                             <td>
-                                기간 내 퀴즈응시하면 출석
+                                기간 내 퀴즈 응시하면 출석
                             </td> 
                         </tr>
                         <tr>
@@ -169,7 +169,7 @@ function Lectures() {
                                 <div class="in-due">4/13 23:55</div>
                             </td>
                             <td>
-                                기간 내 퀴즈응시하면 출석
+                                기간 내 퀴즈 응시하면 출석
                             </td>
                         </tr>
                         <tr>
@@ -189,6 +189,87 @@ function Lectures() {
                                 <a href="https://piazza.com/class/k7222vwq8y61ni?cid=622">[제출] HW12 과제 제출 </a> 
                             </td>
                         </tr>
+                        <tr>
+                            <th scope="row" class="table-head-data">7주차 화 (4/14)</th>
+                            <td>
+                                KMOOC 6주차 강의 수강
+                            </td>
+                            <td>
+                                KMOOC 6주차 모든 퀴즈 응시
+                            </td> 
+                            <td>
+                                <div class="in-due">4/20 23:55</div>
+                            </td>
+                            <td>
+                                기간 내 퀴즈 응시하면 출석
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" class="table-head-data">7주차 금 (4/17)</th>
+                            <td>
+                                <a href="">TBA</a>
+                            </td> 
+                            <td>
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/">[Github] TBA</a>
+                            </td>  
+                            <td>
+                                <div class="future-due">-</div>
+                                <div class="future-due"></div>
+                            </td>
+                            <td>
+                                <a href="">[제출] HW13 출석과제 제출 TBA </a><br/>
+                                <a href="">[제출] HW14 과제 제출 TBA   </a> 
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" class="table-head-data">8주차 화 (4/21)</th>
+                            <td>
+                                KMOOC 7주차 명강의만 수강
+                            </td>
+                            <td>
+                                KMOOC 7주차 명강의 퀴즈만 응시
+                            </td> 
+                            <td>
+                                <div class="future-due">4/27 23:55</div>
+                            </td>
+                            <td>
+                                기간 내 퀴즈 응시하면 출석
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" class="table-head-data">8주차 금 (4/24)</th>
+                            <td>
+                                휴강입니다 : )
+                            </td>
+                            <td>
+                               다른 과목
+                            </td> 
+                            <td>
+                                시험
+                            </td>
+                            <td>
+                                잘보세요~
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" class="table-head-data">9주차 화 (4/28)</th>
+                            <td>
+                                KMOOC 7주차 인공지능 <br/> KMOOC 8주차 명강의 수강
+                            </td>
+                            <td>
+                                KMOOC 7주차 인공지능 퀴즈 <br/>
+                                KMOOC 8주차 명강의 퀴즈 응시
+                            </td> 
+                            <td>
+                                <div class="future-due">5/04 23:55</div>
+                                <div class="future-due">5/04 23:55</div>
+                            </td>
+                            <td>
+                                기간 내 퀴즈 응시하면 출석
+                            </td>
+                        </tr>
+
+
                     </tbody>
                 </table>
             </div>
