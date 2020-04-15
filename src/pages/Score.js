@@ -42,6 +42,11 @@ function Score() {
                         <th scope="col" class="table-head-data"> 20.04.07 AM 07:50  </th>   
                     </tr>
                     <tr>
+                        <th scope="col" class="table-head-data"> HW10, HW11, HW12, K-MOOC 5주차 </th>   
+                        <td scope="col" class="table-head-data"> <a href="https://piazza.com/class/k7222vwq8y61ni?cid=702">[점수] HW10, HW11, HW12, K-MOOC 5주차 점수를 공지합니다.</a></td>  
+                        <th scope="col" class="table-head-data"> 20.04.14 AM 01:04  </th>   
+                    </tr>
+                    <tr>
                         <th scope="col" class="table-head-data"> KMOOC 인공지능 퀴즈 </th>   
                         <td scope="col" class="table-head-data"> 학기말에 일괄 공지 </td>  
                         <th scope="col" class="table-head-data"> 16주차 예정 </th>   

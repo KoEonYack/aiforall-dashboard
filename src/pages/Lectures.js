@@ -13,8 +13,8 @@ function Lectures() {
                             <th scope="col" class="table-head-data">주차</th>
                             <th scope="col" class="table-head-data">강의명</th>
                             <th scope="col" class="table-head-data">강의 공지 및 과제안내</th>
-                            <th scope="col" class="table-head-data">출석 과제 Due</th>
-                            <th scope="col" class="table-head-data">출석 과제 제출란</th>
+                            <th scope="col" class="table-head-data">과제 Due</th>
+                            <th scope="col" class="table-head-data">과제 제출란</th>
                         </tr>
                     </thead>
                     <tbody className="table-head-data">
@@ -166,7 +166,7 @@ function Lectures() {
                                 KMOOC 5주차 모든 퀴즈 응시
                             </td> 
                             <td>
-                                <div class="in-due">4/13 23:55</div>
+                                <div class="over-due">4/13 23:55</div>
                             </td>
                             <td>
                                 기간 내 퀴즈 응시하면 출석
@@ -182,7 +182,7 @@ function Lectures() {
                             </td>  
                             <td>
                                 <div class="over-due">4/10 23:55</div>
-                                <div class="in-due">4/13 23:55</div>
+                                <div class="over-due">4/13 23:55</div>
                             </td>
                             <td>
                                 <a href="https://piazza.com/class/k7222vwq8y61ni?cid=621">[제출] HW11 출석과제 제출</a> <br/>
@@ -207,18 +207,16 @@ function Lectures() {
                         <tr>
                             <th scope="row" class="table-head-data">7주차 금 (4/17)</th>
                             <td>
-                                <a href="">TBA</a>
+                                <a href="">08 CrushPython MontyHall Problem</a>
                             </td> 
                             <td>
-                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/">[Github] TBA</a>
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/08MontyHall.ipynb">[Github] 08MontyHall.ipynb</a>
                             </td>  
                             <td>
-                                <div class="future-due">-</div>
-                                <div class="future-due"></div>
+                                <div class="in-due">5/02 23:55</div>
                             </td>
                             <td>
-                                <a href="">[제출] HW13 출석과제 제출 TBA </a><br/>
-                                <a href="">[제출] HW14 과제 제출 TBA   </a> 
+                                <a href="https://piazza.com/class/k7222vwq8y61ni?cid=712">[제출] HW13 과제 제출</a><br/>
                             </td>
                         </tr>
                         <tr>
@@ -239,25 +237,29 @@ function Lectures() {
                         <tr>
                             <th scope="row" class="table-head-data">8주차 금 (4/24)</th>
                             <td>
-                                휴강입니다 : )
+                                휴강입니다.
                             </td>
                             <td>
-                               다른 과목
+                               3Blue1Brown 강의 
+                               <a href="https://youtu.be/aircAruvnKk"> [1강] </a>
+                               <a href="https://youtu.be/IHZwWFHWa-w"> [2강] </a>
+                               <a href="https://youtu.be/Ilg3gGewQ5U"> [3강] </a>
+                               <a href="https://youtu.be/Ilg3gGewQ5U"> [4강] </a>
                             </td> 
                             <td>
-                                시험
+                                -
                             </td>
                             <td>
-                                잘보세요~
+                                자발적으로 강의 수강
                             </td>
                         </tr>
                         <tr>
                             <th scope="row" class="table-head-data">9주차 화 (4/28)</th>
                             <td>
-                                KMOOC 7주차 인공지능 <br/> KMOOC 8주차 명강의 수강
+                                [마지막] KMOOC 7주차 인공지능 <br/> KMOOC 8주차 명강의 수강
                             </td>
                             <td>
-                                KMOOC 7주차 인공지능 퀴즈 <br/>
+                                [마지막] KMOOC 7주차 인공지능 퀴즈 <br/>
                                 KMOOC 8주차 명강의 퀴즈 응시
                             </td> 
                             <td>
@@ -268,8 +270,130 @@ function Lectures() {
                                 기간 내 퀴즈 응시하면 출석
                             </td>
                         </tr>
-
-
+                        <tr>
+                            <th scope="row" class="table-head-data">9주차 금 (5/01)</th>
+                            <td>
+                                3Blue1Brown 강의 1-3강
+                            </td>
+                            <td>
+                                TBA
+                            </td> 
+                            <td>
+                                <div class="future-due">-</div>
+                            </td>
+                            <td>
+                                -
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" class="table-head-data">10주차 화 (5/05)</th>
+                            <td>
+                                KMOOC 9주차 명강의 수강 <br />
+                                Tensorflow PART1
+                            </td>
+                            <td>
+                                TBA
+                            </td> 
+                            <td>
+                                <div class="future-due">-</div>
+                            </td>
+                            <td>
+                                -
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" class="table-head-data">10주차 금 (5/08)</th>
+                            <td>
+                                KMOOC 10주차 명강의 수강 <br />
+                                Tensorflow PART2
+                            </td>
+                            <td>
+                                TBA
+                            </td> 
+                            <td>
+                                <div class="future-due">-</div>
+                            </td>
+                            <td>
+                                -
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" class="table-head-data">11주차 화 (5/12)</th>
+                            <td>
+                                KMOOC 11주차 명강의 수강 <br />
+                                프로젝트 진행 방법 안내(TA 고언약)
+                            </td>
+                            <td>
+                                TBA
+                            </td> 
+                            <td>
+                                <div class="future-due">-</div>
+                            </td>
+                            <td>
+                                -
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" class="table-head-data">11주차 금 (5/15)</th>
+                            <td>
+                                기말고사
+                            </td>
+                            <td>
+                                TBA
+                            </td> 
+                            <td>
+                                <div class="future-due">-</div>
+                            </td>
+                            <td>
+                                -
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" class="table-head-data">12주차 ~ 14주차</th>
+                            <td>
+                                KMOOC 12~13주차 명강의 수강 <br />
+                                프로젝트 진행기간
+                            </td>
+                            <td>
+                                TBA
+                            </td> 
+                            <td>
+                                <div class="future-due">-</div>
+                            </td>
+                            <td>
+                                -
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" class="table-head-data">15주차</th>
+                            <td>
+                                프로젝트 발표
+                            </td>
+                            <td>
+                                TBA
+                            </td> 
+                            <td>
+                                <div class="future-due">-</div>
+                            </td>
+                            <td>
+                                -
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" class="table-head-data">16주차</th>
+                            <td>
+                                종강. 
+                            </td>
+                            <td>
+                                성적 산출 및 정정
+                            </td> 
+                            <td>
+                                <div class="future-due">-</div>
+                            </td>
+                            <td>
+                                -
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </div>
