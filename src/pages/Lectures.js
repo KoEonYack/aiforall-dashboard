@@ -273,7 +273,11 @@ function Lectures() {
                         <tr>
                             <th scope="row" class="table-head-data">9주차 금 (5/01)</th>
                             <td>
-                                3Blue1Brown 강의 1-3강
+                                3Blue1Brown                                
+                                <a href="https://youtu.be/aircAruvnKk"> [1강] </a>
+                               <a href="https://youtu.be/IHZwWFHWa-w"> [2강] </a>
+                               <a href="https://youtu.be/Ilg3gGewQ5U"> [3강] </a>
+                               <a href="https://youtu.be/Ilg3gGewQ5U"> [4강] </a>
                             </td>
                             <td>
                                 TBA
@@ -304,7 +308,6 @@ function Lectures() {
                         <tr>
                             <th scope="row" class="table-head-data">10주차 금 (5/08)</th>
                             <td>
-                                KMOOC 10주차 명강의 수강 <br />
                                 Tensorflow PART2
                             </td>
                             <td>
@@ -320,7 +323,7 @@ function Lectures() {
                         <tr>
                             <th scope="row" class="table-head-data">11주차 화 (5/12)</th>
                             <td>
-                                KMOOC 11주차 명강의 수강 <br />
+                                KMOOC 10주차 명강의 수강 <br />
                                 프로젝트 진행 방법 안내(TA 고언약)
                             </td>
                             <td>
@@ -351,7 +354,7 @@ function Lectures() {
                         <tr>
                             <th scope="row" class="table-head-data">12주차 ~ 14주차</th>
                             <td>
-                                KMOOC 12~13주차 명강의 수강 <br />
+                                KMOOC 11~13주차 명강의 수강 <br />
                                 프로젝트 진행기간
                             </td>
                             <td>
@@ -382,7 +385,7 @@ function Lectures() {
                         <tr>
                             <th scope="row" class="table-head-data">16주차</th>
                             <td>
-                                종강. 
+                                종강
                             </td>
                             <td>
                                 성적 산출 및 정정
