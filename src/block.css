@@ -106,3 +106,14 @@
     border-radius: 0.9vw;
     margin-left: 0.8vw;
   }
+
+
+  #progress
+  {
+      height: 5px;
+      /* background-color: #E90052; */
+      background-color: #EB4159;
+      position: fixed;
+      top: 0;
+      left: 0;
+  }

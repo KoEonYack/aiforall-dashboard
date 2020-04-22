@@ -4,6 +4,7 @@ import jquery from 'jquery';
 function Header() {
     return (
         <section className="HeaderSection">
+            <div id="progress"></div>
             <div className="PageHeader">
                 <div className="LogoContainer no-drag">
                         Covenant LAB
@@ -19,6 +20,18 @@ function Header() {
                 모인활 대시보드 8주차
             </div>
             </div>
+
+
+            <span class="scroll-btn">
+                <a href="#">
+                    <span class="mouse">
+                        <span>
+                        </span>
+                    </span>
+                </a>
+                <p>scroll me</p>
+            </span>
+
 
             <div className="SocialSection">
                 <div className="GitIcon">
