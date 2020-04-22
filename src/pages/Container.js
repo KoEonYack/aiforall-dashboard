@@ -8,12 +8,14 @@ import Project from './Project'
 import Score from './Score'
 import Bible from './Bible'
 import Footer from './Footer'
+import Button from './Button'
 
 
 function Container() {
     return (
         <div>
             <div className="border-box">
+                <Button />
                 <Lectures />
                 <Announce />
                 <KMOOC_Famouse />

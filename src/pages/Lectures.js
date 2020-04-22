@@ -198,7 +198,7 @@ function Lectures() {
                                 KMOOC 6주차 모든 퀴즈 응시
                             </td> 
                             <td>
-                                <div class="in-due">4/20 23:55</div>
+                                <div class="over-due">4/20 23:55</div>
                             </td>
                             <td>
                                 기간 내 퀴즈 응시하면 출석
@@ -228,7 +228,7 @@ function Lectures() {
                                 KMOOC 7주차 명강의 퀴즈만 응시
                             </td> 
                             <td>
-                                <div class="future-due">4/27 23:55</div>
+                                <div class="in-due">4/27 23:55</div>
                             </td>
                             <td>
                                 기간 내 퀴즈 응시하면 출석
@@ -247,7 +247,7 @@ function Lectures() {
                                <a href="https://youtu.be/Ilg3gGewQ5U"> [4강] </a>
                             </td> 
                             <td>
-                                -
+                                내용이 어려우니 시간날 때 미리 시청
                             </td>
                             <td>
                                 자발적으로 강의 수강
