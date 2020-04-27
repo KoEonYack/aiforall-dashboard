@@ -247,7 +247,7 @@ function Lectures() {
                                <a href="https://youtu.be/Ilg3gGewQ5U"> [4강] </a>
                             </td> 
                             <td>
-                                내용이 어려우니 시간날 때 미리 시청
+                                <div class="over-due">내용이 어려우니 시간날 때 미리 시청</div>
                             </td>
                             <td>
                                 자발적으로 강의 수강
@@ -263,8 +263,8 @@ function Lectures() {
                                 KMOOC 8주차 명강의 퀴즈 응시
                             </td> 
                             <td>
-                                <div class="future-due">5/04 23:55</div>
-                                <div class="future-due">5/04 23:55</div>
+                                <div class="in-due">5/04 23:55</div>
+                                <div class="in-due">5/04 23:55</div>
                             </td>
                             <td>
                                 기간 내 퀴즈 응시하면 출석

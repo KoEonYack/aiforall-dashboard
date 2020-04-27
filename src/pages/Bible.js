@@ -4,7 +4,7 @@ function Bible() {
     return (
         <div>
             <div className="block-header">
-                <div className="block-title">Week 8 Message</div>
+                <div className="block-title">Week 9 Message</div>
             </div>
             <div className="block-content">
                 <br />
@@ -12,7 +12,8 @@ function Bible() {
                 <br/>
                 <center> 
                     <i className="fa fa-youtube-play youtube-icon"></i> 
-                    <a href="https://youtu.be/ULBJ8BQ4gGQ"> [영화 교회오빠 OST] 이원진 - 욥의고백 </a>
+                    <a href="https://youtu.be/ULBJ8BQ4gGQ"> [🎬 영화 교회오빠 OST] 이원진 - 욥의고백 </a>
+                    <br/>
                     <br/>
                     <br/> 
                         내가 말하겠사오니 주는 들으시고 내가 주께 묻겠사오니 주여 내게 알게 하옵소서 <br />
@@ -27,8 +28,6 @@ function Bible() {
                 <center>
                     (GOD IS GOOD ALL THE TIME) &lt;&gt;&lt; <a href="https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%81%AC%ED%8B%B0%EC%8A%A4">  </a>
                 </center>
-
-
             </div>
         </div>
     )

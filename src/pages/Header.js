@@ -22,14 +22,14 @@ function Header() {
             </div>
 
 
-            <span class="scroll-btn">
+            <span className="scroll-btn">
                 <a href="#">
-                    <span class="mouse">
+                    <span className="mouse">
                         <span>
                         </span>
                     </span>
                 </a>
-                <p>scroll me</p>
+                <p className="icon-p">scroll me</p>
             </span>
 
 
