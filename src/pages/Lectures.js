@@ -228,7 +228,7 @@ function Lectures() {
                                 KMOOC 7주차 명강의 퀴즈만 응시
                             </td> 
                             <td>
-                                <div class="in-due">4/27 23:55</div>
+                                <div class="over-due">4/27 23:55</div>
                             </td>
                             <td>
                                 기간 내 퀴즈 응시하면 출석
