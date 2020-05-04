@@ -4,7 +4,7 @@ function KMOOC_AI() {
     return (
         <div>
             <div className="block-header">
-                <div className="block-title">3-2. KMOOC 인공지능 퀴즈 응시 일정</div>
+                <div className="block-title">3-2. [종료] KMOOC 인공지능 퀴즈 응시 일정</div>
             </div>
             <div className="block-content">
                 <p>- <a href="https://piazza.com/class/k7222vwq8y61ni?cid=165">[공지] KMOOC 인공지능 Part 수강법에 대해서 알려드립니다.</a>에서 응시 방법을 확인하세요!</p>
@@ -49,7 +49,7 @@ function KMOOC_AI() {
                         </tr>
                         <tr>
                             <th scope="col" class="table-head-data">KMOOC 인공지능 7주차 퀴즈</th>   
-                            <td scope="col" class="table-head-data"> <div class="in-due">9주차 월요일 9:30 ~ 10주차 월요일 23:55</div></td>    
+                            <td scope="col" class="table-head-data"> <div class="over-due">9주차 월요일 9:30 ~ 10주차 월요일 23:55</div></td>    
                             <td scope="col" class="table-head-data"> 응시 기간 내 KMOOC에서 시험 응시 </td>    
                         </tr>
                     </tbody>

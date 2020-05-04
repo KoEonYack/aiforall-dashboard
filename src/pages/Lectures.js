@@ -213,7 +213,7 @@ function Lectures() {
                                 <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/08MontyHall.ipynb">[Github] 08MontyHall.ipynb</a>
                             </td>  
                             <td>
-                                <div class="in-due">5/02 23:55</div>
+                                <div class="over-due">5/02 23:55</div>
                             </td>
                             <td>
                                 <a href="https://piazza.com/class/k7222vwq8y61ni?cid=712">[제출] HW13 과제 제출</a><br/>
@@ -263,8 +263,8 @@ function Lectures() {
                                 KMOOC 8주차 명강의 퀴즈 응시
                             </td> 
                             <td>
-                                <div class="in-due">5/04 23:55</div>
-                                <div class="in-due">5/04 23:55</div>
+                                <div class="over-due">5/04 23:55</div>
+                                <div class="over-due">5/04 23:55</div>
                             </td>
                             <td>
                                 기간 내 퀴즈 응시하면 출석
@@ -280,13 +280,13 @@ function Lectures() {
                                <a href="https://youtu.be/Ilg3gGewQ5U"> [4강] </a>
                             </td>
                             <td>
-                                TBA
+                                x
                             </td> 
                             <td>
-                                <div class="future-due">-</div>
+                                <div class="over-due">x</div>
                             </td>
                             <td>
-                                -
+                                과제 없음
                             </td>
                         </tr>
                         <tr>
@@ -299,10 +299,10 @@ function Lectures() {
                                 TBA
                             </td> 
                             <td>
-                                <div class="future-due">-</div>
+                                <div class="in-due">5/11 23:55</div>
                             </td>
                             <td>
-                                -
+                                기간 내 퀴즈 응시
                             </td>
                         </tr>
                         <tr>
