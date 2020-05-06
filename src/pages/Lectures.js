@@ -296,28 +296,31 @@ function Lectures() {
                                 Tensorflow PART1
                             </td>
                             <td>
-                                TBA
+                                KMOOC 9주차 명강의 퀴즈 응시 <br />
+                                <a href="https://piazza.com/class/k7222vwq8y61ni?cid=771"> Tensorflow PART 1 </a>
                             </td> 
                             <td>
                                 <div class="in-due">5/11 23:55</div>
+                                <div class="over-due">5/05 23:55</div>
                             </td>
                             <td>
-                                기간 내 퀴즈 응시
+                                기간 내 퀴즈 응시 <br />
+                                <a href="https://piazza.com/class/k7222vwq8y61ni?cid=772">[제출] HW14 출석과제 제출</a>
                             </td>
                         </tr>
                         <tr>
                             <th scope="row" class="table-head-data">10주차 금 (5/08)</th>
                             <td>
-                                Tensorflow PART2
+                                Tensorflow PART2 
                             </td>
                             <td>
-                                TBA
+                                <a href="https://piazza.com/class/k7222vwq8y61ni?cid=808"> Tensorflow PART2 </a>
                             </td> 
                             <td>
-                                <div class="future-due">-</div>
+                                <div class="in-due">5/08</div>
                             </td>
                             <td>
-                                -
+                                <a href="https://piazza.com/class/k7222vwq8y61ni?cid=809">[제출] HW15 출석과제 제출</a>
                             </td>
                         </tr>
                         <tr>
