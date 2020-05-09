@@ -317,7 +317,7 @@ function Lectures() {
                                 <a href="https://piazza.com/class/k7222vwq8y61ni?cid=808"> Tensorflow PART2 </a>
                             </td> 
                             <td>
-                                <div class="in-due">5/08</div>
+                                <div class="over-due">5/08 23:55</div>
                             </td>
                             <td>
                                 <a href="https://piazza.com/class/k7222vwq8y61ni?cid=809">[제출] HW15 출석과제 제출</a>
@@ -330,13 +330,15 @@ function Lectures() {
                                 프로젝트 진행 방법 안내(TA 고언약)
                             </td>
                             <td>
-                                TBA
+                                -
                             </td> 
                             <td>
-                                <div class="future-due">-</div>
+                                <div class="future-due">5/18 23:55</div>
+                                <div class="in-due">5/12 10:55</div>
                             </td>
                             <td>
-                                -
+                                기간 내 퀴즈 응시 <br />
+                                생방송
                             </td>
                         </tr>
                         <tr>
@@ -345,10 +347,10 @@ function Lectures() {
                                 기말고사
                             </td>
                             <td>
-                                TBA
+                                <a href="https://piazza.com/class/k7222vwq8y61ni?cid=841">[공지] 기말고사 안내</a>
                             </td> 
                             <td>
-                                <div class="future-due">-</div>
+                                <div class="future-due">5/15 10:00</div>
                             </td>
                             <td>
                                 -
