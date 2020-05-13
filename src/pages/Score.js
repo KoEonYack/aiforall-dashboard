@@ -53,13 +53,18 @@ function Score() {
                     </tr>
                     <tr>
                         <th scope="col" class="table-head-data"> KMOOC 7주차, 8주차 명강의</th>   
-                        <td scope="col" class="table-head-data"> <a href="https://piazza.com/class/k7222vwq8y61ni?cid=843">KMOOC 7주차, 8주차 명강의 점수를 공지합니다.</a></td>  
+                        <td scope="col" class="table-head-data"> <a href="https://piazza.com/class/k7222vwq8y61ni?cid=843">[점수] KMOOC 7주차, 8주차 명강의 점수를 공지합니다.</a></td>  
                         <th scope="col" class="table-head-data"> 20.05.09 PM 06:50  </th>   
                     </tr>
                     <tr>
+                        <th scope="col" class="table-head-data"> HW13(기말고사)</th>   
+                        <td scope="col" class="table-head-data"> <a href="https://piazza.com/class/k7222vwq8y61ni?cid=847">[점수] HW13 점수 공지를 공지합니다.</a></td>  
+                        <th scope="col" class="table-head-data"> 20.05.10 AM 05:00  </th>   
+                    </tr>
+                    <tr>
                         <th scope="col" class="table-head-data"> KMOOC 인공지능 퀴즈 </th>   
-                        <td scope="col" class="table-head-data"> 학기말에 일괄 공지 </td>  
-                        <th scope="col" class="table-head-data"> 16주차 예정 </th>   
+                        <td scope="col" class="table-head-data"> 공개 완료</td>  
+                        <th scope="col" class="table-head-data"> - </th>   
                     </tr>
                     <tr>
                         <th scope="col" class="table-head-data"> KMOOC 명강의 퀴즈 </th>   

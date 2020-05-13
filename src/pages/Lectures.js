@@ -300,7 +300,7 @@ function Lectures() {
                                 <a href="https://piazza.com/class/k7222vwq8y61ni?cid=771"> Tensorflow PART 1 </a>
                             </td> 
                             <td>
-                                <div class="in-due">5/11 23:55</div>
+                                <div class="over-due">5/11 23:55</div>
                                 <div class="over-due">5/05 23:55</div>
                             </td>
                             <td>
@@ -330,11 +330,12 @@ function Lectures() {
                                 프로젝트 진행 방법 안내(TA 고언약)
                             </td>
                             <td>
-                                -
+                                - <br />
+                                <a href="https://piazza.com/class/k7222vwq8y61ni?cid=854">[공지] 11주차 화요일 강의노트</a>
                             </td> 
                             <td>
-                                <div class="future-due">5/18 23:55</div>
-                                <div class="in-due">5/12 10:55</div>
+                                <div class="in-due">5/18 23:55</div>
+                                <div class="over-due">5/12 10:55</div>
                             </td>
                             <td>
                                 기간 내 퀴즈 응시 <br />
@@ -350,10 +351,10 @@ function Lectures() {
                                 <a href="https://piazza.com/class/k7222vwq8y61ni?cid=841">[공지] 기말고사 안내</a>
                             </td> 
                             <td>
-                                <div class="future-due">5/15 10:00</div>
+                                <div class="in-due">5/15 10:00</div>
                             </td>
                             <td>
-                                -
+                                시험응시하면 출석
                             </td>
                         </tr>
                         <tr>
@@ -363,13 +364,14 @@ function Lectures() {
                                 프로젝트 진행기간
                             </td>
                             <td>
-                                TBA
+                                - <br />
+                                4. 프로젝트 항목 참조
                             </td> 
                             <td>
-                                <div class="future-due">-</div>
+                                <div class="future-due">12주차 ~ 14주차</div>
                             </td>
                             <td>
-                                -
+                                기간 내 퀴즈 응시
                             </td>
                         </tr>
                         <tr>
