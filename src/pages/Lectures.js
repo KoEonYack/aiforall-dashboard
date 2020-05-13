@@ -369,9 +369,11 @@ function Lectures() {
                             </td> 
                             <td>
                                 <div class="future-due">12주차 ~ 14주차</div>
+                                -
                             </td>
                             <td>
-                                기간 내 퀴즈 응시
+                                기간 내 퀴즈 응시 <br />
+                                <a href="https://piazza.com/class/k7222vwq8y61ni?cid=855">프로젝트 일정안내</a>
                             </td>
                         </tr>
                         <tr>

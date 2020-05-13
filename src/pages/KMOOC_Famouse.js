@@ -61,12 +61,12 @@ function KMOOC_Famouse() {
                     </tr>
                     <tr>
                         <th scope="col" class="table-head-data">KMOOC 명강의 9주차 퀴즈</th>    
-                        <td scope="col" class="table-head-data"> <div class="in-due">10주차 월요일 9:30 ~ 11주차 월요일 23:55</div></td>   
+                        <td scope="col" class="table-head-data"> <div class="over-due">10주차 월요일 9:30 ~ 11주차 월요일 23:55</div></td>   
                         <td scope="col" class="table-head-data"> 응시 기간 내 KMOOC에서 시험 응시 </td>  
                     </tr>
                     <tr>
                         <th scope="col" class="table-head-data">KMOOC 명강의 10주차 퀴즈</th>    
-                        <td scope="col" class="table-head-data"> <div class="future-due">11주차 월요일 9:30 ~ 12주차 월요일 23:55</div></td>   
+                        <td scope="col" class="table-head-data"> <div class="in-due">11주차 월요일 9:30 ~ 12주차 월요일 23:55</div></td>   
                         <td scope="col" class="table-head-data"> 응시 기간 내 KMOOC에서 시험 응시 </td>  
                     </tr>
                     <tr>
