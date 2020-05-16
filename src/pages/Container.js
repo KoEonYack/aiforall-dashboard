@@ -17,11 +17,11 @@ function Container() {
             <div className="border-box">
                 <Button />
                 <Lectures />
-                <Announce />
+                <Project />
+                {/* <Announce /> */}
                 <KMOOC_Famouse />
                 <KMOOC_AI />
                 <PYF />
-                <Project />
                 <Score />
                 <Bible />
             </div>

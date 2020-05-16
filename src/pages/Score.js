@@ -4,7 +4,7 @@ function Score() {
     return (
         <div>
             <div className="block-header">
-                <div className="block-title">5. 종료 과제 및 점수 공지 현황</div>
+                <div className="block-title">4. 종료 과제 및 점수 공지 현황</div>
             </div>
             <div className="block-content">
             <table class="table table-hover">
@@ -63,13 +63,13 @@ function Score() {
                     </tr>
                     <tr>
                         <th scope="col" class="table-head-data"> KMOOC 인공지능 퀴즈 </th>   
-                        <td scope="col" class="table-head-data"> 공개 완료</td>  
-                        <th scope="col" class="table-head-data"> - </th>   
+                        <td scope="col" class="table-head-data"> 공개 완료 </td>  
+                        <th scope="col" class="table-head-data"> 공개 완료 </th>   
                     </tr>
                     <tr>
                         <th scope="col" class="table-head-data"> KMOOC 명강의 퀴즈 </th>   
                         <td scope="col" class="table-head-data"> 학기말에 일괄 공지 </td>  
-                        <th scope="col" class="table-head-data"> 16주차 예정 </th>   
+                        <th scope="col" class="table-head-data"> 15주차 예정 </th>   
                     </tr>
                     
                 </tbody>

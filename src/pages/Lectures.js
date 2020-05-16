@@ -334,7 +334,7 @@ function Lectures() {
                                 <a href="https://piazza.com/class/k7222vwq8y61ni?cid=854">[공지] 11주차 화요일 강의노트</a>
                             </td> 
                             <td>
-                                <div class="in-due">5/18 23:55</div>
+                                <div class="over-due">5/18 23:55</div>
                                 <div class="over-due">5/12 10:55</div>
                             </td>
                             <td>
@@ -351,14 +351,14 @@ function Lectures() {
                                 <a href="https://piazza.com/class/k7222vwq8y61ni?cid=841">[공지] 기말고사 안내</a>
                             </td> 
                             <td>
-                                <div class="in-due">5/15 10:00</div>
+                                <div class="over-due">5/15 10:00</div>
                             </td>
                             <td>
                                 시험응시하면 출석
                             </td>
                         </tr>
                         <tr>
-                            <th scope="row" class="table-head-data">12주차 ~ 14주차</th>
+                            <th scope="row" class="table-head-data">12주차 ~ 15주차</th>
                             <td>
                                 KMOOC 11~13주차 명강의 수강 <br />
                                 프로젝트 진행기간
@@ -368,7 +368,7 @@ function Lectures() {
                                 4. 프로젝트 항목 참조
                             </td> 
                             <td>
-                                <div class="future-due">12주차 ~ 14주차</div>
+                                <div class="in-due">12주차 ~ 15주차</div>
                                 -
                             </td>
                             <td>
@@ -377,7 +377,7 @@ function Lectures() {
                             </td>
                         </tr>
                         <tr>
-                            <th scope="row" class="table-head-data">15주차</th>
+                            <th scope="row" class="table-head-data">15주차 마지막 수업</th>
                             <td>
                                 프로젝트 발표
                             </td>
