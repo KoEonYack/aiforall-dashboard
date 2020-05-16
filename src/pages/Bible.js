@@ -8,7 +8,7 @@ function Bible() {
             </div>
             <div className="block-content">
                 <br />
-                <img src="https://github.com/KoEonYack/aiforall-dashboard/blob/master/src/img/week12.jpg?raw=true" width="50%"  className="bible-img" />
+                <img src="https://github.com/KoEonYack/aiforall-dashboard/blob/master/src/img/week12.jpg?raw=true" width="20%"  className="bible-img" />
                 <br/>
                 <center>Figure. 분당 미금 지구촌교회 지하 1층 개인기도실</center> <br />
                 <center> 
