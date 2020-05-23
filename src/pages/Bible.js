@@ -8,6 +8,8 @@ function Bible() {
             </div>
             <div className="block-content">
                 <br />
+                <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile23.uf.tistory.com%2Fimage%2F99B5C5365EC8B883097595" width="80%"  className="bible-img" />
+
                 <img src="https://github.com/KoEonYack/aiforall-dashboard/blob/master/src/img/week12.jpg?raw=true" width="20%"  className="bible-img" />
                 <br/>
                 <center> 
