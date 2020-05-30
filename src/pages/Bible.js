@@ -4,30 +4,27 @@ function Bible() {
     return (
         <div>
             <div className="block-header">
-                <div className="block-title">Week 13 Message</div>
+                <div className="block-title">Week 14 Message</div>
             </div>
             <div className="block-content">
                 <br />
-                <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile23.uf.tistory.com%2Fimage%2F99B5C5365EC8B883097595" width="50%"  className="bible-img" />
+                <img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.0-9/p960x960/89835751_1125164567833885_7436263194693206016_o.jpg?_nc_cat=102&_nc_sid=2d5d41&_nc_ohc=3kHmo2WO9FwAX_ZM7rJ&_nc_ht=scontent-ssn1-1.xx&_nc_tp=6&oh=84b713ed02344cdbf3ab6772e4032569&oe=5EF676AB" width="50%"  className="bible-img" />
 
                 <br/>
                 <center> 
                     <i className="fa fa-youtube-play youtube-icon"></i> 
-                    <a href="https://youtu.be/2HyTro-guJA"> 예수로 나의 구주 삼고 (Blessed Assurance) Feat.정신호 - 강신의 (ShiE K)</a>
+                    <a href="https://www.youtube.com/watch?v=JhCAb7kFy2I"> 한동의 노래 - 베드로의 고백  </a>
                     <br /> 
                     <br />
                     
-                    하나님 나라가 가까이왔다. <br />
-                    무엇을 해야할까요? 준비해야죠 <br />
-                    기말고사가 가까이 왔다 무엇을 해야할 까요? 준비해야합니다. <br />
-                    하나님의 통치가 임했다. 하나님나라를 위해 준비하고 사역하는 한동의 모든 구성원 되기 바랍니다. <br />
+                    안심하라 내니 두려워 말라<br />
+                    날 부르시는 그의 음성따라<br />
+                    걸음걸음마다 주 의지하며<br />
+                    나 믿음으로 걷네<br />
                     <br />
-                    <a href="https://drive.google.com/open?id=0BxEHT3LznnGrVWwxMTlIWEd6YlE">[ 2017 HANDONG LIVE WORSHIP | 김완진 목사님 Message 中 ] </a>
+                    확신없는 나의 삶에 손내밀어 다가오시는 분 그 분은 예수그리스도입니다.
                     <br />
-                    <br />
-                    <a href="https://drive.google.com/drive/u/3/folders/0BxEHT3LznnGrMHNsSGFhSU1UVWM"> 한동의 공동체가 고백한 다른 곡이 궁금하다면?</a>
-                    <br />
-                    <br />
+
                 </center>
                 <br/>
                 <br/>
@@ -35,8 +32,9 @@ function Bible() {
                 <br/>
 
 
-                <img src="https://github.com/KoEonYack/aiforall-dashboard/blob/master/src/img/week13.jpg?raw=true" width="100%"  className="bible-img" />
-                <center>한동에 이번 학기 못 오는, 한동이 궁금한 새내기들을 위하여 TA가 찍은 사진을 선물로 드립니다.</center>
+                <img src="https://github.com/KoEonYack/aiforall-dashboard/blob/master/src/img/week14.PNG?raw=true" width="100%"  className="bible-img" />
+                <center> 현동홀은 한동대의 본관이며 1995년도 한동의 탄생과 함께 처음 세워진 4동의 건물 중 하나입니다. <br />
+                    건물 정면 4층 높이 중앙에는 한동대학교의 영문 교명인 Handong Global University 가 아닌 대학의 기독교적 정체성을 나타내는 ‘Handong-God’s University’가 새겨져 있습니다. </center>
 
                 <br/>
                 <center>
