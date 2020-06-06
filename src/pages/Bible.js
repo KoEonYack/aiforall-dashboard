@@ -8,7 +8,7 @@ function Bible() {
             </div>
             <div className="block-content">
                 <br />
-                <img src="https://github.com/KoEonYack/aiforall-dashboard/blob/master/src/img/week15.jpg?raw=true" width="80%"  className="bible-img" />
+                <img src="https://github.com/KoEonYack/aiforall-dashboard/blob/master/src/img/week15_1.jpg?raw=true" width="80%"  className="bible-img" />
                 <br/>
                 <center> 
                     누구에게나 시작이 주어지며, 누구든지 끝을 피할 수 없습니다.
