@@ -62,6 +62,11 @@ function Score() {
                         <th scope="col" class="table-head-data"> 20.05.10 AM 05:00  </th>   
                     </tr>
                     <tr>
+                        <th scope="col" class="table-head-data"> 기말고사 </th>   
+                        <td scope="col" class="table-head-data"> <a href="https://piazza.com/class/k7222vwq8y61ni?cid=928"> [점수] 기말고사 점수를 공지합니다. </a></td>  
+                        <th scope="col" class="table-head-data"> 20.06.09 PM 04:00  </th>   
+                    </tr>
+                    <tr>
                         <th scope="col" class="table-head-data"> KMOOC 인공지능 퀴즈 </th>   
                         <td scope="col" class="table-head-data"> 공개 완료 </td>  
                         <th scope="col" class="table-head-data"> 공개 완료 </th>   

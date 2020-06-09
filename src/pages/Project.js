@@ -35,13 +35,13 @@ function Project() {
                                 <th scope="col" class="table-head-data">최종 보고서</th> 
                                 <td scope="col" class="table-head-data"><a href="https://piazza.com/class/k7222vwq8y61ni?cid=898">[공지] 최종 보고서 작성법</a></td>     
                                 <td scope="col" class="table-head-data"><a href="https://piazza.com/class/k7222vwq8y61ni?cid=899">[제출] 최종보고서</a></td>     
-                                <td scope="col" class="table-head-data in-due">15주차 화(6/09) 11:30 AM</td>     
+                                <td scope="col" class="table-head-data over-due">15주차 화(6/09) 11:30 AM</td>     
                             </tr>
                             <tr>
                                 <th scope="col" class="table-head-data">동료평가</th> 
+                                <td scope="col" class="table-head-data"><a href="https://piazza.com/class/k7222vwq8y61ni?cid=927">[공지] Peer evaluation </a></td>     
                                 <td scope="col" class="table-head-data"><a href="">-</a></td>     
-                                <td scope="col" class="table-head-data"><a href="">-</a></td>     
-                                <td scope="col" class="table-head-data future-due">15주차 화(6/09) 11:30 AM 이후 ~ 15주차 목(6/12) 11:30 AM </td>     
+                                <td scope="col" class="table-head-data in-due">15주차 화(6/09) 11:30 AM 이후 ~ 15주차 목(6/12) 11:30 AM </td>     
                             </tr>
 
 
