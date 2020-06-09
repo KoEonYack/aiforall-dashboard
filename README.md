@@ -11,7 +11,7 @@
 - https://koeonyack.github.io/aiforall-dashboard/ 를 이용해 주세요.
 
 
-- Deploy
+## Deploy
 
 ``` bash
 npm run deploy
