@@ -41,7 +41,7 @@ function Project() {
                                 <th scope="col" class="table-head-data">동료평가</th> 
                                 <td scope="col" class="table-head-data"><a href="https://piazza.com/class/k7222vwq8y61ni?cid=927">[공지] Peer evaluation </a></td>     
                                 <td scope="col" class="table-head-data"><a href="">-</a></td>     
-                                <td scope="col" class="table-head-data in-due">15주차 화(6/09) 11:30 AM 이후 ~ 15주차 목(6/12) 11:30 AM </td>     
+                                <td scope="col" class="table-head-data over-due">15주차 화(6/09) 11:30 AM 이후 ~ 15주차 목(6/12) 11:30 AM </td>     
                             </tr>
 
 

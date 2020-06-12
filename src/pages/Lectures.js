@@ -368,7 +368,7 @@ function Lectures() {
                                 4. 프로젝트 항목 참조
                             </td> 
                             <td>
-                                <div class="in-due">12주차 ~ 15주차</div>
+                                <div class="over-due">12주차 ~ 15주차</div>
                                 -
                             </td>
                             <td>
@@ -382,13 +382,13 @@ function Lectures() {
                                 프로젝트 발표
                             </td>
                             <td>
-                                TBA
+                                <a href="https://piazza.com/class/k7222vwq8y61ni?cid=936">[공지] Zoom 링크 / 출석 / 우수 프로젝트</a>
                             </td> 
                             <td>
-                                <div class="future-due">-</div>
+                                <div class="over-due">6/12 10:00</div>
                             </td>
                             <td>
-                                -
+                            <a href="https://piazza.com/class/k7222vwq8y61ni?cid=936">출석체크</a>
                             </td>
                         </tr>
                         <tr>
