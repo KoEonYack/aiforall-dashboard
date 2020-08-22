@@ -12,15 +12,14 @@ function Header() {
             </div>
 
             <div className="HelloMessage">
-                20-Spring Semester AI For All Dashboard!
+                20-Fall Semester AI For All Dashboard!
             </div>
 
             <div className="warp-header">
             <div className="type-wrap">
-                모인활 대시보드 15주차
+                모인활 대시보드 01주차
             </div>
             </div>
-
 
             <span className="scroll-btn">
                 <a href="#">

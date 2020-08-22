@@ -15,10 +15,10 @@ function Container() {
     return (
         <div>
             <div className="border-box">
-                <Button />
+                {/* <Button /> */}
                 <Lectures />
                 <Project />
-                {/* <Announce /> */}
+                <Announce />
                 <KMOOC_Famouse />
                 <KMOOC_AI />
                 <PYF />

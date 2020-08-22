@@ -1,14 +1,39 @@
-# 모인활 대시보드 2.0 ver
+# 모인활 대시보드 2.1 ver
 
 
 ![img](img/index.png)
 
 
-- 20-1 한동대학교 모두를 위한 인공지능의 활용 대시보드
 - 공개날짜: 20. 04. 11.
-- 작업 기간: 20. 04. 10. (6H)
-- 기존에 사용하던 [구 버전](https://koeonyack.github.io/) 을 업데이트. 
-- https://koeonyack.github.io/aiforall-dashboard/ 를 이용해 주세요.
+- 개발자: 고언약 HGU 13 [Github](https://github.com/koeonyack)
+- 20-2학기 운영자: 이원빈 HGU 19 [Github](https://github.com/Handong-Promi)
+
+
+## Code
+
+- 구조
+
+```
+App.js
+    - HeaderPage
+    - Container <- 주로 수정
+
+```
+
+- 일정 className
+
+``` html
+<td className="future-due">3/05 23:55</td>
+<td className="over-due">3/05 23:55</td>
+<td className="in-due">3/05 23:55</td>
+```
+
+
+## Local 
+
+``` bash
+npm start
+```
 
 
 ## Deploy

@@ -1,5 +1,5 @@
 {
-  "homepage": "https://koeonyack.github.io/aiforall-dashboard/",
+  "homepage": "https://handong-promi.github.io/aiforall-dashboard/",
   "name": "react-bootstrap-app",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +13,7 @@
     "popper.js": "^1.16.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
     "reactstrap": "^8.4.1"
   },
