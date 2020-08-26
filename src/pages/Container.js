@@ -16,14 +16,8 @@ function Container() {
         <div>
             <div className="border-box">
                 {/* <Button /> */}
-                <Lectures />
-                <Project />
                 <Announce />
-                <KMOOC_Famouse />
-                <KMOOC_AI />
-                <PYF />
-                <Score />
-                <Bible />
+                <Lectures />
             </div>
             <Footer />
         </div>

@@ -12,7 +12,7 @@ function Header() {
             </div>
 
             <div className="HelloMessage">
-                20-Fall Semester AI For All Dashboard!
+                    20-Fall Semester [AI For All] Dashboard!
             </div>
 
             <div className="warp-header">
@@ -39,6 +39,8 @@ function Header() {
                     </a>
                 </div>
             </div>
+
+            
         </section>
     )
 }
