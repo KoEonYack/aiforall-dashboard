@@ -17,7 +17,6 @@ function Container() {
             <div className="border-box">
                 {/* <Button /> */}
                 <Announce />
-                <Lectures />
             </div>
             <Footer />
         </div>
