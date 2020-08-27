@@ -8,7 +8,7 @@ function KMOOC_Famouse() {
                     <div className="block-title">2-2. KMOOC 명강의 퀴즈 응시 일정</div>
             </div>
             <div className="block-content">
-            <p>- <a href="https://piazza.com/class/k7222vwq8y61ni?cid=166">[공지] KMOOC 명강의 Part 수강법에 대해서 알려드립니다.</a>에서 응시 방법을 확인하세요!</p>
+            {/*<p>- <a href="https://piazza.com/class/k7222vwq8y61ni?cid=166">[공지] KMOOC 명강의 Part 수강법에 대해서 알려드립니다.</a>에서 응시 방법을 확인하세요!</p>*/}
 
             <table class="table table-hover">
                 <thead>

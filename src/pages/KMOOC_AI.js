@@ -7,7 +7,7 @@ function KMOOC_AI() {
                 <div className="block-title">2-1. KMOOC 인공지능 퀴즈 응시 일정</div>
             </div>
             <div className="block-content">
-                <p>- <a href="https://piazza.com/class/k7222vwq8y61ni?cid=165">[공지] KMOOC 인공지능 Part 수강법에 대해서 알려드립니다.</a>에서 응시 방법을 확인하세요!</p>
+                {/*(<p>- <a href="https://piazza.com/class/k7222vwq8y61ni?cid=165">[공지] KMOOC 인공지능 Part 수강법에 대해서 알려드립니다.</a>에서 응시 방법을 확인하세요!</p> */}
                 <table class="table table-hover">
                     <thead>
                     <tr>

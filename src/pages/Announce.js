@@ -33,7 +33,7 @@ function Announce() {
                         5. 기타 여러 프로그램 설치 <br/>
                         </pre>
 
-                        1번은 <a href=""> piazza 가입 및 등록하기 </a>에서, 
+                        1번은 <a href="https://github.com/idebtor/JoyAI/blob/master/%EB%AA%A8%EC%9D%B8%ED%99%9C%20piazza%20%EA%B0%80%EC%9E%85%20%EB%B0%A9%EB%B2%95.pdf"> piazza 가입 및 등록하기 </a>에서, 
                         2~5번은 <a href="https://github.com/idebtor/JoyAI/blob/master/%EB%AA%A8%EC%9D%B8%ED%99%9C_1%EC%A3%BC%EC%B0%A8%20%EC%95%88%EB%82%B4%EC%84%9C.pdf"> 모인활_1주차 안내서.pdf </a> 파일과
                         <a href="https://github.com/idebtor/JoyAI/blob/master/01GettingStarted.md"> 01gettingstarted.md </a> 파일에서 확인할 수 있습니다. <br/>
 

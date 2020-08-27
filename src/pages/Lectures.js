@@ -26,7 +26,7 @@ function Lectures() {
                             <td>
                                 <a href="https://youtu.be/dv7-iI3_4FM">미정</a><br/>
                             </td>
-                            <td className="future-due">미정 23:55</td>
+                            <td className="future-due">9/03 23:55</td>
                             <td>
                                 <a href="https://piazza.com/class/k7222vwq8y61ni?cid=24">미정</a>
                             </td>
