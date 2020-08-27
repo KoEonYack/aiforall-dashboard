@@ -15,8 +15,8 @@ function Announce() {
                         구체적인 일정은 아래와 같습니다. <br/><br/>
                         
                         <pre>
-                        - 1~7주차: (화): 파이썬 강의 / (금): K-MOOC 강의 <br/> 
-                        - 8주차: 중간고사 <br/> 
+                        - 1~7주차: (화): 파이썬 강의 / (금): K-MOOC 강의 (K-MOOC 일부는 7주차 이후에도 진행) <br/> 
+                        - 8주차: 미정 <br/> 
                         - 9~10주차: A.I. 강의 <br/> 
                         - 11주차: (화): 특강 / (금): 기말고사 <br/> 
                         - 12~14주차: 프로젝트 진행 <br/> 
@@ -33,11 +33,11 @@ function Announce() {
                         5. 기타 여러 프로그램 설치 <br/>
                         </pre>
 
-                        1번은 아래 [piazza 가입 및 등록하기]에서, 
+                        1번은 <a href=""> piazza 가입 및 등록하기 </a>에서, 
                         2~5번은 <a href="https://github.com/idebtor/JoyAI/blob/master/%EB%AA%A8%EC%9D%B8%ED%99%9C_1%EC%A3%BC%EC%B0%A8%20%EC%95%88%EB%82%B4%EC%84%9C.pdf"> 모인활_1주차 안내서.pdf </a> 파일과
                         <a href="https://github.com/idebtor/JoyAI/blob/master/01GettingStarted.md"> 01gettingstarted.md </a> 파일에서 확인할 수 있습니다. <br/>
 
-                        모인활 1주차 안내서는 왕 중요한 파일이니 꼭!! 읽어주세요.
+                        모인활 1주차 안내서는 ❗짱❗ 중요한 파일이니 꼭!! 읽어주세요.
                     </div>    
             </div>
         </div>
