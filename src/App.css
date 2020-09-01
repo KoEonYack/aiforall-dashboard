@@ -53,16 +53,25 @@ a:hover { color: #00299b;; text-decoration: none;}
 
   top: 32%;
   text-align: center;
-  left: 20%;
+  left: 23%;
   position: absolute;
 }
 
-.SocialSection{
+.SocialSection1{
   padding: 20px 0;
   text-align: center;
   text-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
   bottom: 0.5vw;
-  left: 90%;
+  left: 88.2%;
+  position: absolute;
+}
+
+.SocialSection2{
+  padding: 20px 0;
+  text-align: center;
+  text-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+  bottom: 0.5vw;
+  left: 90.5%;
   position: absolute;
 }
 

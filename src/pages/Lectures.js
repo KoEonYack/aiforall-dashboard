@@ -21,16 +21,20 @@ function Lectures() {
                         <tr>
                             <th scope="row" className="table-head-data">1주차 화 (9/01)</th>
                             <td>
-                                <a href="https://youtu.be/AQrsOyl7-U8">미정</a> <br/>
+                                <a href="https://hducc.handong.edu/em/5f49b5de8503" target="_blank">01 강의계획(Syllabus), 출첵</a> <br/>
+                                <a href="https://hducc.handong.edu/em/5f49b2830a6f9" target="_blank">02 1주차 안내(개발 환경)</a> <br/>
+                                <a href="https://hducc.handong.edu/em/5f49b4fcbd6a5" target="_blank">03 Git, GitHub, GitHub Desktop 사용법</a> <br/>
                             </td>
                             <td>
-                                <a href="https://youtu.be/dv7-iI3_4FM">미정</a><br/>
+                                1. 현재 Dashboard의 [Welcome!]의 '미리 준비해야하는 사항들' 준비<br/>
+                                2. <a href="https://piazza.com/class/ke5chv2120x1e3?cid=8">Do the first things during the first week</a><br/> 
                             </td>
-                            <td className="future-due">9/03 23:55</td>
+                            <td className="in-due">9/01 23:55</td>
                             <td>
-                                <a href="https://piazza.com/class/k7222vwq8y61ni?cid=24">미정</a>
+                                Due 안에 Piazza 가입, 등록 시 출석 인정
                             </td>
                         </tr>
+                        {/*}
                         <tr>
                             <th scope="row" className="table-head-data">1주차 금 (9/04)</th>
                             <td>
@@ -44,6 +48,7 @@ function Lectures() {
                                 기간 내 퀴즈 응시하면 출석 및 과제 인정
                             </td>
                         </tr>
+                         */}
                     </tbody>
                 </table>
             </div>

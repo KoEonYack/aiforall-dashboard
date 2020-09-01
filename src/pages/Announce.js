@@ -23,7 +23,7 @@ function Announce() {
                         - 15주차 프로젝트 발표 <br/>
                         </pre><br/>
 
-                        위와 같이 신나고! 멋진(?) 수업을 수강하기 전, 미리 준비해야하는 몇 가지 사항들이 있습니다. <br/><br/>
+                        위와 같이 신나고! 멋진(?) 수업을 수강하기 전, <b>미리 준비해야하는 몇 가지 사항들</b>이 있습니다. <br/><br/>
 
                         <pre>
                         1. 수업 커뮤니티 'Piazza' 가입 및 등록하기 <br/>
@@ -37,7 +37,9 @@ function Announce() {
                         2~5번은 <a href="https://github.com/idebtor/JoyAI/blob/master/%EB%AA%A8%EC%9D%B8%ED%99%9C_1%EC%A3%BC%EC%B0%A8%20%EC%95%88%EB%82%B4%EC%84%9C.pdf"> 모인활_1주차 안내서.pdf </a> 파일과
                         <a href="https://github.com/idebtor/JoyAI/blob/master/01GettingStarted.md"> 01gettingstarted.md </a> 파일에서 확인할 수 있습니다. <br/>
 
-                        모인활 1주차 안내서는 ❗짱❗ 중요한 파일이니 꼭!! 읽어주세요.
+                        모인활 1주차 안내서는 ❗짱❗ 중요한 파일이니 꼭!! 읽어주세요.<br/><br/>
+
+                        더불어, piazza 가입 여부로 <b>1주차 화요일의 출석 체크</b>를 진행합니다! 늦지 않게 가입해주세요. :)
                     </div>    
             </div>
         </div>

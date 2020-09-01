@@ -12,7 +12,7 @@ function Header() {
             </div>
 
             <div className="HelloMessage">
-                    20-Fall Semester [AI For All] Dashboard!
+                    20-Fall Semester AI For All Dashboard!
             </div>
 
             <div className="warp-header">
@@ -32,7 +32,7 @@ function Header() {
             </span>
 
 
-            <div className="SocialSection">
+            <div className="SocialSection1">
                 <div className="GitIcon">
                     <a href="https://github.com/KoEonYack/">
                         <i className="fa fa-github" id="test"></i>
@@ -40,7 +40,15 @@ function Header() {
                 </div>
             </div>
 
-            
+            <div className="SocialSection2">
+                <div className="GitIcon">
+                    <a href="https://github.com/Handong-Promi/">
+                        <i className="fa fa-github" id="test"></i>
+                    </a>
+                </div>
+            </div>
+
+
         </section>
     )
 }
