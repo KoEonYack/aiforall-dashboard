@@ -34,7 +34,6 @@ function Lectures() {
                                 Due 안에 Piazza 가입, 등록 시 출석 인정
                             </td>
                         </tr>
-                        {/*}
                         <tr>
                             <th scope="row" className="table-head-data">1주차 금 (9/04)</th>
                             <td>
@@ -48,7 +47,6 @@ function Lectures() {
                                 기간 내 퀴즈 응시하면 출석 및 과제 인정
                             </td>
                         </tr>
-                         */}
                     </tbody>
                 </table>
             </div>
