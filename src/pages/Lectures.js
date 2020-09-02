@@ -29,7 +29,7 @@ function Lectures() {
                                 1. 현재 Dashboard의 [Welcome!]의 '미리 준비해야하는 사항들' 준비<br/>
                                 2. <a href="https://piazza.com/class/ke5chv2120x1e3?cid=8">Do the first things during the first week</a><br/> 
                             </td>
-                            <td className="in-due">9/01 23:55</td>
+                            <td className="over-due">9/01 23:55</td>
                             <td>
                                 Due 안에 Piazza 가입, 등록 시 출석 인정
                             </td>
@@ -40,9 +40,9 @@ function Lectures() {
                                 <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/course/">KMOOC 1주차 강의 수강</a> <br/>
                             </td>
                             <td>
-                                >KMOOC 1주차 모든 퀴즈 응시<br/>
+                                KMOOC 1주차 모든 퀴즈 응시<br/>
                             </td>
-                            <td className="future-due">9/06 23:55</td>
+                            <td className="in-due">9/06 23:55</td>
                             <td>
                                 기간 내 퀴즈 응시하면 출석 및 과제 인정
                             </td>
