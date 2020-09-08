@@ -254,3 +254,8 @@ body {
     -moz-animation: ani-mouse 2.5s linear infinite;
     animation: ani-mouse 2.5s linear infinite;
 }
+
+/* added by wonbin */
+td {
+  vertical-align: middle;
+}

@@ -42,7 +42,40 @@ function Lectures() {
                             <td>
                                 KMOOC 1주차 모든 퀴즈 응시<br/>
                             </td>
-                            <td className="in-due">9/06 23:55</td>
+                            <td className="over-due">9/06 23:55</td>
+                            <td>
+                                기간 내 퀴즈 응시하면 출석 및 과제 인정
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" className="table-head-data">2주차 화 (9/08)</th>
+                            <td>
+                                <a href="https://www.youtube.com/watch?v=_G8cdbxNxBM&feature=youtu.be" target="_blank">AI 1-1 Getting Started</a> <br/>
+                                <a href="https://www.youtube.com/watch?v=6qSN2rj5O9I&feature=youtu.be" target="_blank">AI 1-2 Jupyter Notebook</a> <br/>
+                                <a href="https://www.youtube.com/watch?v=3scSkDX2kcM&feature=youtu.be" target="_blank">AI 1-3 Markdown (HW1)</a> <br/>
+                                <a href="https://www.youtube.com/watch?v=ChzYKt20JKM&feature=youtu.be" target="_blank">Py01 Python Overview (CH1)</a> <br/>
+                            </td>
+                            <td>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=42" target="_blank"> [제출] CH1 제출 </a> <br/>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=44" target="_blank"> [제출] HW1 제출 </a> <br/>
+                            </td>
+                            <td>
+                                <div className="in-due">[출첵] 9/08 23:55 </div>
+                                <div className="in-due">[과제] 9/10 23:55 </div>
+                            </td>
+                            <td>
+                                출첵 과제 기한 내에 제출 시 출석 인정
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" className="table-head-data">2주차 금 (9/11)</th>
+                            <td>
+                                <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/course/">KMOOC 2주차 강의 수강</a> <br/>
+                            </td>
+                            <td>
+                                KMOOC 2주차 모든 퀴즈 응시<br/>
+                            </td>
+                            <td className="in-due">9/13 23:55</td>
                             <td>
                                 기간 내 퀴즈 응시하면 출석 및 과제 인정
                             </td>

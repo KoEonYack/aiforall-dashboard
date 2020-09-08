@@ -4,7 +4,7 @@ function Announce() {
     return (
         <div>
             <div className="block-header">
-                    <div className="block-title"> Welcome! </div>
+                    <div className="block-title"> Welcome! (늦게 수강 신청한 사람들 필독!) </div>
             </div>
             <div className="block-content">
                     <div>
