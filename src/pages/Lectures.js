@@ -60,8 +60,8 @@ function Lectures() {
                                 <a href="https://piazza.com/class/ke5chv2120x1e3?cid=44" target="_blank"> [제출] HW1 제출 </a> <br/>
                             </td>
                             <td>
-                                <div className="in-due">[출첵] 9/08 23:55 </div>
-                                <div className="in-due">[과제] 9/10 23:55 </div>
+                                <div className="over-due">[출첵] 9/08 23:55 </div>
+                                <div className="over-due">[과제] 9/10 23:55 </div>
                             </td>
                             <td>
                                 출첵 과제 기한 내에 제출 시 출석 인정
