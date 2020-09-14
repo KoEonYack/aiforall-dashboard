@@ -37,7 +37,7 @@ function Lectures() {
                         <tr>
                             <th scope="row" className="table-head-data">1주차 금 (9/04)</th>
                             <td>
-                                <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/course/">KMOOC 1주차 강의 수강</a> <br/>
+                                <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/course/" target="_blank">KMOOC 1주차 강의 수강</a> <br/>
                             </td>
                             <td>
                                 KMOOC 1주차 모든 퀴즈 응시<br/>
@@ -70,12 +70,43 @@ function Lectures() {
                         <tr>
                             <th scope="row" className="table-head-data">2주차 금 (9/11)</th>
                             <td>
-                                <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/course/">KMOOC 2주차 강의 수강</a> <br/>
+                                <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/course/" target="_blank">KMOOC 2주차 강의 수강</a> <br/>
                             </td>
                             <td>
                                 KMOOC 2주차 모든 퀴즈 응시<br/>
                             </td>
-                            <td className="in-due">9/13 23:55</td>
+                            <td className="over-due">9/13 23:55</td>
+                            <td>
+                                기간 내 퀴즈 응시하면 출석 및 과제 인정
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" className="table-head-data">3주차 화 (9/15)</th>
+                            <td>
+                                <a href="https://www.youtube.com/watch?v=SdKjMIKJa-0&feature=youtu.be" target="_blank">py02-1 Data Types (CH2)</a> <br/>
+                                <a href="https://www.youtube.com/watch?v=iFKjNdC3BKM&feature=youtu.be" target="_blank">py02-2 Data Types (CH2, HW2)</a> <br/>
+                            </td>
+                            <td>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=136" target="_blank"> [제출] CH2 제출 </a> <br/>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=137" target="_blank"> [제출] HW2 제출 </a> <br/>
+                            </td>
+                            <td>
+                                <div className="in-due">[출첵] 9/15 23:55 </div>
+                                <div className="in-due">[과제] 9/21 23:55 </div>
+                            </td>
+                            <td>
+                                출첵 과제 (CH2) 기한 내에 제출 시 출석 인정
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" className="table-head-data">3주차 금 (9/18)</th>
+                            <td>
+                                <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/course/" target="_blank">KMOOC 3주차 강의 수강</a> <br/>
+                            </td>
+                            <td>
+                                KMOOC 3주차 모든 퀴즈 응시<br/>
+                            </td>
+                            <td className="in-due">9/20 23:55</td>
                             <td>
                                 기간 내 퀴즈 응시하면 출석 및 과제 인정
                             </td>
