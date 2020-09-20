@@ -56,15 +56,18 @@ function Lectures() {
                                 <a href="https://www.youtube.com/watch?v=ChzYKt20JKM&feature=youtu.be" target="_blank">Py01 Python Overview (CH1)</a> <br/>
                             </td>
                             <td>
-                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=42" target="_blank"> [제출] CH1 제출 </a> <br/>
-                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=44" target="_blank"> [제출] HW1 제출 </a> <br/>
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/ai1-1gettingstarted.ipynb" target="blank"> [GitHub] ai1-1gettingstarted.ipynb </a><br/>
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/ai1-2jupyternotebook.ipynb" target="blank"> [GitHub] ai1-2jupyternotebook.ipynb </a><br/>
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/ai1-3markdown.ipynb" target="blank"> [GitHub] ai1-3markdown.ipynb </a><br/>
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/py01overview.ipynb" target="blank"> [GitHub] py01overview.ipynbs </a><br/>
                             </td>
                             <td>
                                 <div className="over-due">[출첵] 9/08 23:55 </div>
                                 <div className="over-due">[과제] 9/10 23:55 </div>
                             </td>
                             <td>
-                                출첵 과제 기한 내에 제출 시 출석 인정
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=42" target="_blank"> [제출] CH1 제출 </a> <br/>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=44" target="_blank"> [제출] HW1 제출 </a> <br/>
                             </td>
                         </tr>
                         <tr>
@@ -87,15 +90,16 @@ function Lectures() {
                                 <a href="https://www.youtube.com/watch?v=iFKjNdC3BKM&feature=youtu.be" target="_blank">py02-2 Data Types (CH2, HW2)</a> <br/>
                             </td>
                             <td>
-                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=136" target="_blank"> [제출] CH2 제출 </a> <br/>
-                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=137" target="_blank"> [제출] HW2 제출 </a> <br/>
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/py02datatypes.ipynb"> [GitHub] py02datatypes.ipynbs </a><br/>
+                                
                             </td>
                             <td>
-                                <div className="in-due">[출첵] 9/15 23:55 </div>
+                                <div className="over-due">[출첵] 9/15 23:55 </div>
                                 <div className="in-due">[과제] 9/21 23:55 </div>
                             </td>
                             <td>
-                                출첵 과제 (CH2) 기한 내에 제출 시 출석 인정
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=136" target="_blank"> [제출] CH2 제출 </a> <br/>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=137" target="_blank"> [제출] HW2 제출 </a> <br/>
                             </td>
                         </tr>
                         <tr>
@@ -106,7 +110,37 @@ function Lectures() {
                             <td>
                                 KMOOC 3주차 모든 퀴즈 응시<br/>
                             </td>
-                            <td className="in-due">9/20 23:55</td>
+                            <td className="over-due">9/20 23:55</td>
+                            <td>
+                                기간 내 퀴즈 응시하면 출석 및 과제 인정
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" className="table-head-data">4주차 화 (9/22)</th>
+                            <td>
+                                <a href="https://www.youtube.com/watch?v=Kbdb6BxxX2o&feature=youtu.be" target="_blank">py03 Iteration (CH3, HW3)</a> <br/>
+                            </td>
+                            <td>
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/py03Iteration.ipynb"> [GitHub] py03Iteration.ipynb </a><br/> 
+                            </td>
+                            <td>
+                                <div className="in-due">[출첵] 9/22(화) 23:55 </div>
+                                <div className="in-due">[과제] 9/26(토) 23:55 </div>
+                            </td>
+                            <td>
+                                <a href="" target="_blank"> [제출] CH3 제출 </a> <br/>
+                                <a href="" target="_blank"> [제출] HW3 제출 </a> <br/>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" className="table-head-data">4주차 금 (9/25)</th>
+                            <td>
+                                <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/course/" target="_blank">KMOOC 4주차 강의 수강</a> <br/>
+                            </td>
+                            <td>
+                                KMOOC 4주차 모든 퀴즈 응시<br/>
+                            </td>
+                            <td className="in-due">9/27(일) 23:55</td>
                             <td>
                                 기간 내 퀴즈 응시하면 출석 및 과제 인정
                             </td>

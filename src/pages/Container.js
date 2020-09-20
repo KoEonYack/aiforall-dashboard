@@ -3,6 +3,7 @@ import Lectures from './Lectures'
 import Announce from './Announce'
 import KMOOC_Famouse from './KMOOC_Famouse'
 import KMOOC_AI from './KMOOC_AI'
+import Extra from './Extra'
 import PYF from './pyf'
 import Project from './Project'
 import Score from './Score'
@@ -15,10 +16,10 @@ function Container() {
     return (
         <div>
             <div className="border-box">
-                {/* <Button /> */}
                 <Lectures />
                 <KMOOC_AI />
                 <KMOOC_Famouse />
+                <Extra />
             </div>
             <Footer />
         </div>
