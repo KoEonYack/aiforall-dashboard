@@ -95,7 +95,7 @@ function Lectures() {
                             </td>
                             <td>
                                 <div className="over-due">[출첵] 9/15 23:55 </div>
-                                <div className="in-due">[과제] 9/21 23:55 </div>
+                                <div className="over-due">[과제] 9/21 23:55 </div>
                             </td>
                             <td>
                                 <a href="https://piazza.com/class/ke5chv2120x1e3?cid=136" target="_blank"> [제출] CH2 제출 </a> <br/>
@@ -124,12 +124,12 @@ function Lectures() {
                                 <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/py03Iteration.ipynb"> [GitHub] py03Iteration.ipynb </a><br/> 
                             </td>
                             <td>
-                                <div className="in-due">[출첵] 9/22(화) 23:55 </div>
+                                <div className="over-due">[출첵] 9/22(화) 23:55 </div>
                                 <div className="in-due">[과제] 9/26(토) 23:55 </div>
                             </td>
                             <td>
-                                <a href="" target="_blank"> [제출] CH3 제출 </a> <br/>
-                                <a href="" target="_blank"> [제출] HW3 제출 </a> <br/>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=221" target="_blank"> [제출] CH3 제출 </a> <br/>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=222" target="_blank"> [제출] HW3 제출 </a> <br/>
                             </td>
                         </tr>
                         <tr>
