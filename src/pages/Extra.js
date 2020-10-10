@@ -53,6 +53,13 @@ function Extra() {
                         <td> <div class="in-due">10/12(월) 23:55</div> </td>    
                         <td> <a href="https://piazza.com/class/ke5chv2120x1e3?cid=383" target="_blank">[제출] Extra-HW4 제출</a> </td>
                     </tr>
+                    <tr>
+                        <th> 7주차 </th>
+                        <td> 파이썬 리스트 <br/> (List, List Comprehension) </td>
+                        <td> 51번 ~ 70번 <br/> (파이썬 리스트) </td>
+                        <td> <div class="in-due">10/19(월) 23:55</div> </td>    
+                        <td> <a href="" target="_blank">[제출] Extra-HW5 제출</a> </td>
+                    </tr>
                 </tbody>
             </table>
 

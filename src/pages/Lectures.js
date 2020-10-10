@@ -184,7 +184,7 @@ function Lectures() {
                                 <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/py05strings.ipynb"> [GitHub] py05Strings.ipynb </a><br/>
                             </td>
                             <td>
-                                <div className="in-due">[출첵] 10/7(수) 23:55 </div>
+                                <div className="over-due">[출첵] 10/7(수) 23:55 </div>
                                 <div className="in-due">[과제] 10/12(월) 23:55 </div>
                             </td>
                             <td>
@@ -200,7 +200,41 @@ function Lectures() {
                             <td>
                                 KMOOC 6주차 모든 퀴즈 응시<br/>
                             </td>
-                            <td className="in-due">10/11(일) 23:55</td>
+                            <td className="over-due">10/11(일) 23:55</td>
+                            <td>
+                                기간 내 퀴즈 응시하면 출석 및 과제 인정
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" className="table-head-data">7주차 화 (10/13)</th>
+                            <td>
+                                <a href="https://www.youtube.com/watch?v=gH8o6FujOT0&feature=youtu.be" target="_blank">py06 List (CH6, HW6)</a> <br/>
+                                <a href="https://www.youtube.com/watch?v=IH9Z6TBfvVw&feature=youtu.be" target="_blank">py07 List Comprehension (CH7, HW7)</a> <br/>
+                            </td>
+                            <td>
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/py06list.ipynb"> [GitHub] py06list.ipynb </a><br/>
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/py07listcomp.ipynb"> [GitHub] py06listcomp.ipynb </a><br/>
+                            </td>
+                            <td>
+                                <div className="in-due">[출첵] 10/13(화) 23:55 </div>
+                                <div className="in-due">[과제] 10/19(월) 23:55 </div>
+                            </td>
+                            <td>
+                                <a href="" target="_blank"> [제출] CH6 제출 </a> <br/>
+                                <a href="" target="_blank"> [제출] HW6 제출 </a> <br/>
+                                <a href="" target="_blank"> [제출] CH7 제출 </a> <br/>
+                                <a href="" target="_blank"> [제출] HW7 제출 </a> <br/>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" className="table-head-data">7주차 금 (10/16)</th>
+                            <td>
+                                <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/course/" target="_blank">KMOOC 7주차 강의 수강</a> <br/>
+                            </td>
+                            <td>
+                                KMOOC 7주차 모든 퀴즈 응시<br/>
+                            </td>
+                            <td className="in-due">10/18(일) 23:55</td>
                             <td>
                                 기간 내 퀴즈 응시하면 출석 및 과제 인정
                             </td>
