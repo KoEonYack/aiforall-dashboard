@@ -148,22 +148,18 @@ function Lectures() {
                         <tr>
                             <th scope="row" className="table-head-data">5주차 화 (9/29)</th>
                             <td>
-                                to be updated.
-                                {/* <a href="https://www.youtube.com/watch?v=Kbdb6BxxX2o&feature=youtu.be" target="_blank">py03 Iteration (CH3, HW3)</a> <br/>*/}
+                                <a href="https://www.youtube.com/watch?v=C47OtMj9MmY&feature=youtu.be" target="_blank">py04 Function (CH4, HW4)</a> <br/>
                             </td>
                             <td>
-                                to be updated.
-                                {/*<a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/py03Iteration.ipynb"> [GitHub] py03Iteration.ipynb </a><br/> */}
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/py04Function.ipynb"> [GitHub] py04 Function.ipynb </a><br/>
                             </td>
                             <td>
-                                to be updated.
-                                {/*<div className="in-due">[출첵] 9/22(화) 23:55 </div>
-                                <div className="in-due">[과제] 9/26(토) 23:55 </div>*/}
+                                <div className="over-due">[출첵] 9/29(화) 23:55 </div>
+                                <div className="over-due">[과제] 10/5(월) 23:55 </div>
                             </td>
                             <td>
-                                to be updated.
-                                {/*<a href="https://piazza.com/class/ke5chv2120x1e3?cid=221" target="_blank"> [제출] CH3 제출 </a> <br/>
-                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=222" target="_blank"> [제출] HW3 제출 </a> <br/>*/}
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=310" target="_blank"> [제출] CH4 제출 </a> <br/>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=309" target="_blank"> [제출] HW4 제출 </a> <br/>
                             </td>
                         </tr>
                         <tr>
@@ -174,7 +170,37 @@ function Lectures() {
                             <td>
                                 KMOOC 5주차 모든 퀴즈 응시<br/>
                             </td>
-                            <td className="in-due">10/4(일) 23:55</td>
+                            <td className="over-due">10/4(일) 23:55</td>
+                            <td>
+                                기간 내 퀴즈 응시하면 출석 및 과제 인정
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" className="table-head-data">6주차 화 (10/6)</th>
+                            <td>
+                                <a href="https://www.youtube.com/watch?v=1jzlYWTGNMU&feature=youtu.be" target="_blank">py05 Strings (CH5, HW5)</a> <br/>
+                            </td>
+                            <td>
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/py05strings.ipynb"> [GitHub] py05Strings.ipynb </a><br/>
+                            </td>
+                            <td>
+                                <div className="in-due">[출첵] 10/7(수) 23:55 </div>
+                                <div className="in-due">[과제] 10/12(월) 23:55 </div>
+                            </td>
+                            <td>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=380" target="_blank"> [제출] CH5 제출 </a> <br/>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=381" target="_blank"> [제출] HW5 제출 </a> <br/>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" className="table-head-data">6주차 금 (10/9)</th>
+                            <td>
+                                <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/course/" target="_blank">KMOOC 6주차 강의 수강</a> <br/>
+                            </td>
+                            <td>
+                                KMOOC 6주차 모든 퀴즈 응시<br/>
+                            </td>
+                            <td className="in-due">10/11(일) 23:55</td>
                             <td>
                                 기간 내 퀴즈 응시하면 출석 및 과제 인정
                             </td>
