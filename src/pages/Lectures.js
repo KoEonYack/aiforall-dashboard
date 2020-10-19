@@ -214,7 +214,7 @@ function Lectures() {
                             <td>
                                 <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/py06list.ipynb"> [GitHub] py06list.ipynb </a><br/>
                                 <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/py07listcomp.ipynb"> [GitHub] py06listcomp.ipynb </a><br/>
-                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=475" traget="_blank"> midterm </a>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=475" target="_blank"> midterm </a>
                             </td>
                             <td>
                                 <div className="over-due">[출첵] 10/13(화) 23:55 </div>
