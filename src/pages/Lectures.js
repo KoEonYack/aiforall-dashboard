@@ -185,7 +185,7 @@ function Lectures() {
                             </td>
                             <td>
                                 <div className="over-due">[출첵] 10/7(수) 23:55 </div>
-                                <div className="in-due">[과제] 10/12(월) 23:55 </div>
+                                <div className="over-due">[과제] 10/12(월) 23:55 </div>
                             </td>
                             <td>
                                 <a href="https://piazza.com/class/ke5chv2120x1e3?cid=380" target="_blank"> [제출] CH5 제출 </a> <br/>
@@ -214,16 +214,19 @@ function Lectures() {
                             <td>
                                 <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/py06list.ipynb"> [GitHub] py06list.ipynb </a><br/>
                                 <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/py07listcomp.ipynb"> [GitHub] py06listcomp.ipynb </a><br/>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=475" traget="_blank"> midterm </a>
                             </td>
                             <td>
-                                <div className="in-due">[출첵] 10/13(화) 23:55 </div>
+                                <div className="over-due">[출첵] 10/13(화) 23:55 </div>
                                 <div className="in-due">[과제] 10/19(월) 23:55 </div>
+                                <div className="in-due">[midterm] 10/23(금) 23:55 </div>
                             </td>
                             <td>
-                                <a href="" target="_blank"> [제출] CH6 제출 </a> <br/>
-                                <a href="" target="_blank"> [제출] HW6 제출 </a> <br/>
-                                <a href="" target="_blank"> [제출] CH7 제출 </a> <br/>
-                                <a href="" target="_blank"> [제출] HW7 제출 </a> <br/>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=439" target="_blank"> [제출] CH6 제출 </a> <br/>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=441" target="_blank"> [제출] HW6 제출 </a> <br/>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=440" target="_blank"> [제출] CH7 제출 </a> <br/>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=442" target="_blank"> [제출] HW7 제출 </a> <br/>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=486" target="_blank"> [제출] midterm 제출 </a> <br/>
                             </td>
                         </tr>
                         <tr>
@@ -234,9 +237,49 @@ function Lectures() {
                             <td>
                                 KMOOC 7주차 모든 퀴즈 응시<br/>
                             </td>
-                            <td className="in-due">10/18(일) 23:55</td>
+                            <td className="over-due">10/18(일) 23:55</td>
                             <td>
                                 기간 내 퀴즈 응시하면 출석 및 과제 인정
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" className="table-head-data">8주차 화 (10/20)</th>
+                            <td>
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/ai2-1%20MLintroduction.ipynb"> ai2-1 MLintroduction.ipynb </a><br/>
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/ai2-2%20DLintroduction.ipynb"> ai2-2 DLintroduction.ipynb (AI1) </a><br/>
+                                <a href="https://www.youtube.com/watch?v=4h90mwIWNvs&feature=youtu.be" target="_blank">AI3-1 NumPy Tutorial(1/3) (AI1)</a> <br/>
+                            </td>
+                            <td>
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/ai2-1%20MLintroduction.ipynb"> [GitHub] ai2-1 MLintroduction.ipynb </a><br/>
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/ai2-2%20DLintroduction.ipynb"> [GitHub] ai2-2 DLintroduction.ipynb (AI1) </a><br/>
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/ai3-1%20NumPyTutorial.ipynb"> [GitHub] ai3-1 NumPyTutorial.ipynb (AI1) </a><br/>
+                            </td>
+                            <td>
+                                <div className="in-due">[AI2] 10/22(목) 23:55 </div>
+                            </td>
+                            <td>
+                                <a href="" target="_blank"> [AI2] 제출 </a> <br/>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" className="table-head-data">8주차 금 (10/23)</th>
+                            <td>
+                                <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/course/" target="_blank">KMOOC 8주차 명강의 수강</a> <br/>
+                                <a href="https://www.youtube.com/watch?v=ic6D9PqurfA&feature=youtu.be" target="_blank">AI3-2 NumPy Tutorial(2/3) (AI2)</a> <br/>
+                                <a href="https://www.youtube.com/watch?v=1HhNSNeCmr8&feature=youtu.be" target="_blank">AI3-3 NumPy Tutorial(3/3) (AI2)</a> <br/>
+                            </td>
+                            <td>
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/ai3-2%20NumPyTutorial.ipynb"> [GitHub] ai3-2 NumPyTutorial.ipynb (AI2) </a><br/>
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/ai3-3%20NumPyTutorial.ipynb"> [GitHub] ai3-2 NumPyTutorial.ipynb (AI2) </a><br/>
+                                KMOOC 8주차 명강의 퀴즈 응시<br/>
+                            </td>
+                            <td>
+                                <div className="in-due">[KMOOC] 10/25(일) 23:55 </div>
+                                <div className="in-due">[AI2] 10/26(월) 23:55 </div>     
+                            </td>
+                            <td>
+                                기간 내 퀴즈 응시하면 출석 및 과제 인정 <br/>
+                                <a href="" target="_blank"> [AI2] 제출 </a> <br/>   
                             </td>
                         </tr>
                     </tbody>

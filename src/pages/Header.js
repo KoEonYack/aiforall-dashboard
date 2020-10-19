@@ -17,7 +17,7 @@ function Header() {
 
             <div className="warp-header">
             <div className="type-wrap">
-                모인활 대시보드 07주차
+                모인활 대시보드 08주차
             </div>
             </div>
 
