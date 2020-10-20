@@ -218,8 +218,8 @@ function Lectures() {
                             </td>
                             <td>
                                 <div className="over-due">[출첵] 10/13(화) 23:55 </div>
-                                <div className="in-due">[과제] 10/19(월) 23:55 </div>
-                                <div className="in-due">[midterm] 10/23(금) 23:55 </div>
+                                <div className="over-due">[과제] 10/19(월) 23:55 </div>
+                                <div className="over-due">[midterm] 10/23(금) 23:55 </div>
                             </td>
                             <td>
                                 <a href="https://piazza.com/class/ke5chv2120x1e3?cid=439" target="_blank"> [제출] CH6 제출 </a> <br/>
@@ -255,10 +255,10 @@ function Lectures() {
                                 <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/ai3-1%20NumPyTutorial.ipynb"> [GitHub] ai3-1 NumPyTutorial.ipynb (AI1) </a><br/>
                             </td>
                             <td>
-                                <div className="in-due">[AI2] 10/22(목) 23:55 </div>
+                                <div className="in-due">[AI1] 10/22(목) 23:55 </div>
                             </td>
                             <td>
-                                <a href="" target="_blank"> [AI2] 제출 </a> <br/>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=597" target="_blank"> [AI1] 제출 </a> <br/>
                             </td>
                         </tr>
                         <tr>
