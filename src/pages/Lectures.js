@@ -308,7 +308,7 @@ function Lectures() {
                             </td>
                             <td>
                                 KMOOC 9주차 명강의 퀴즈 응시<br/>
-                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/ai4-2%20GradientDescent.ipynb"> [GitHub] ai4-2 ai4-2 GradientDescent.ipynb </a><br/>
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/ai4-2%20GradientDescent.ipynb"> [GitHub] ai4-2 GradientDescent.ipynb </a><br/>
                                 <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/ai4-3%20LossFunction.ipynb"> [GitHub] ai4-3 LossFunction.ipynb </a><br/>                               
                             </td>
                             <td>
@@ -323,13 +323,13 @@ function Lectures() {
                         <tr>
                             <th scope="row" className="table-head-data">10주차 화 (11/2)</th>
                             <td>
-                                <a href="https://www.youtube.com/watch?v=ktfBO7A-1W4&feature=youtu.be"> AI4-4 Neuron Class </a><br/>
+                                <a href="https://www.youtube.com/watch?v=ktfBO7A-1W4&feature=youtu.be" target="_blank"> AI4-4 Neuron Class </a><br/>
                             </td>
                             <td>
                                 <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/ai4-4%20NeuronClass.ipynb"> [GitHub] ai4-4 NeuronClass.ipynb </a><br/>
                             </td>
                             <td>
-                                <div className="in-due">[AI5] 11/5(목) 23:55 </div>
+                                <div className="over-due">[AI5] 11/5(목) 23:55 </div>
                             </td>
                             <td>
                                 <a href="https://piazza.com/class/ke5chv2120x1e3?cid=742" target="_blank"> [AI5] 제출 </a> <br/>
@@ -339,15 +339,20 @@ function Lectures() {
                             <th scope="row" className="table-head-data">10주차 금 (11/6)</th>
                             <td>
                                 <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/course/" target="_blank">KMOOC 10주차 명강의 수강</a> <br/>
+                                <a href="https://www.youtube.com/watch?v=7QZ1atUpc9s&feature=youtu.be" target="_blank"> AI5-1 Perceptron and <br /> AI5-2 Sigmoid Function </a><br/>
+
                             </td>
                             <td>
-                                KMOOC 10주차 명강의 퀴즈 응시<br/>                              
+                                KMOOC 10주차 명강의 퀴즈 응시<br/>             
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/ai5-1%262%20PerceptronSigmoid.ipynb"> ai5-1&2 PerceptronSigmoid.ipynb </a><br/>                 
                             </td>
                             <td>
                                 <div className="in-due">[KMOOC] 11/8(일) 23:55 </div>
+                                <div className="in-due">[AI5] 11/5(목) 23:55 </div>
                             </td>
                             <td>
                                 기간 내 퀴즈 응시하면 출석 및 과제 인정 <br/>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=742" target="_blank"> [AI6] 제출 </a> <br/>
                             </td>
                         </tr>
                     </tbody>
