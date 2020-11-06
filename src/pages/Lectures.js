@@ -348,11 +348,11 @@ function Lectures() {
                             </td>
                             <td>
                                 <div className="in-due">[KMOOC] 11/8(일) 23:55 </div>
-                                <div className="in-due">[AI5] 11/5(목) 23:55 </div>
+                                <div className="in-due">[AI6] 11/6(금) 23:55 </div>
                             </td>
                             <td>
                                 기간 내 퀴즈 응시하면 출석 및 과제 인정 <br/>
-                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=742" target="_blank"> [AI6] 제출 </a> <br/>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=765" target="_blank"> [AI6] 제출 </a> <br/>
                             </td>
                         </tr>
                     </tbody>
