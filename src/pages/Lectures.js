@@ -347,12 +347,47 @@ function Lectures() {
                                 <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/ai5-1%262%20PerceptronSigmoid.ipynb"> ai5-1&2 PerceptronSigmoid.ipynb </a><br/>                 
                             </td>
                             <td>
-                                <div className="in-due">[KMOOC] 11/8(일) 23:55 </div>
-                                <div className="in-due">[AI6] 11/6(금) 23:55 </div>
+                                <div className="over-due">[KMOOC] 11/8(일) 23:55 </div>
+                                <div className="over-due">[AI6] 11/6(금) 23:55 </div>
                             </td>
                             <td>
                                 기간 내 퀴즈 응시하면 출석 및 과제 인정 <br/>
                                 <a href="https://piazza.com/class/ke5chv2120x1e3?cid=765" target="_blank"> [AI6] 제출 </a> <br/>
+                            </td>
+                        </tr>
+                        {/*------------- 11주차-------------*/}
+                        <tr>
+                            <th scope="row" className="table-head-data">11주차 화 (11/10)</th>
+                            <td>
+                                프로젝트 특강 (1) <br />
+                                <a href="https://www.youtube.com/watch?v=Pw4GIK1LBiE&feature=youtu.be" target="_blank"> AI7.1 & 2 Gate and XOR using tf.keras </a><br/>
+                            </td>
+                            <td>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=796" target="_blank"> 11주차는 오프라인 수업입니다. </a> <br />
+                                <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/ai7-1%262%20GateTF.kerasXOR.ipynb"> [GitHub] ai7-1&2 GateTF.kerasXOR.ipynb </a><br/>
+                            </td>
+                            <td>
+                                <div className="in-due">[AI7] 11/12(목) 23:55 </div>
+                            </td>
+                            <td>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=797" target="_blank"> [AI7] 제출 </a> <br/>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" className="table-head-data">11주차 금 (11/13)</th>
+                            <td>
+                                프로젝트 특강 (2) <br />
+                                <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/course/" target="_blank">KMOOC 11주차 명강의 수강</a> <br/>
+                            </td>
+                            <td>
+                                KMOOC 11주차 명강의 퀴즈 응시<br/>                          
+                            </td>
+                            <td>
+                                <div className="in-due">[KMOOC] 11/15(일) 23:55 </div>
+                                {/*<div className="over-due">[AI6] 11/6(금) 23:55 </div>*/}
+                            </td>
+                            <td>
+                                기간 내 퀴즈 응시하면 출석 및 과제 인정 <br/>
                             </td>
                         </tr>
                     </tbody>
