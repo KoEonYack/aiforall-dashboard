@@ -17,6 +17,7 @@ function Container() {
         <div>
             <div className="border-box">
                 <Lectures />
+                <Project />
                 {/*<KMOOC_AI />*/}
                 <KMOOC_Famouse />
                 {/*<Extra />*/}
