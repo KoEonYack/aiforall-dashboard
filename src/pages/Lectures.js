@@ -367,7 +367,7 @@ function Lectures() {
                                 <a href="https://github.com/idebtor/JoyAI/blob/master/ipynb/ai7-1%262%20GateTF.kerasXOR.ipynb"> [GitHub] ai7-1&2 GateTF.kerasXOR.ipynb </a><br/>
                             </td>
                             <td>
-                                <div className="in-due">[AI7] 11/12(목) 23:55 </div>
+                                <div className="over-due">[AI7] 11/12(목) 23:55 </div>
                             </td>
                             <td>
                                 <a href="https://piazza.com/class/ke5chv2120x1e3?cid=797" target="_blank"> [AI7] 제출 </a> <br/>
@@ -383,11 +383,50 @@ function Lectures() {
                                 KMOOC 11주차 명강의 퀴즈 응시<br/>                          
                             </td>
                             <td>
-                                <div className="in-due">[KMOOC] 11/15(일) 23:55 </div>
-                                {/*<div className="over-due">[AI6] 11/6(금) 23:55 </div>*/}
+                                <div className="over-due">[KMOOC] 11/15(일) 23:55 </div>
                             </td>
                             <td>
                                 기간 내 퀴즈 응시하면 출석 및 과제 인정 <br/>
+                            </td>
+                        </tr>
+                        {/*------------- 12차-------------*/}
+                        <tr>
+                            <th scope="row" className="table-head-data">12주차 화 (11/17)</th>
+                            <td>
+                                기말고사 <br />
+                                프로젝트 진행 및 예비 보고서 작성
+                            </td>
+                            <td>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=845" target="_blank"> 기말고사 안내 </a> <br />
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=839" target="_blank"> 프로젝트 팀 구성 및 일정 안내 </a> <br />
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=840" target="_blank"> 프로젝트 Overview </a> <br />
+                            </td>
+                            <td>
+                                <div className="in-due">[파이썬 테스트] 11/17(화) 10:30 </div>
+                                <div className="in-due">[AI 테스트] 11/18(수) 10:30 </div>
+                                
+                            </td>
+                            <td>
+                                -
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row" className="table-head-data">12주차 금 (11/20)</th>
+                            <td>
+                                프로젝트 진행 및 예비 보고서 작성 <br />
+                                <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/course/" target="_blank">KMOOC 12주차 명강의 수강</a> <br/>
+                            </td>
+                            <td>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=841" target="_blank"> 예비 보고서 작성법 및 주의사항 </a>
+                                KMOOC 12주차 명강의 퀴즈 응시<br/>                          
+                            </td>
+                            <td>
+                                <div className="in-due">[예비 보고서] 11/20(금) 23:55 </div>
+                                <div className="in-due">[KMOOC] 11/22(일) 23:55 </div>
+                            </td>
+                            <td>
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=842" target="_blank"> [예비 보고서] 제출 </a> <br/>
+                                기간 내 예비 보고서 제출 및 K-MOOC 퀴즈 응시하면 출석 인정.
                             </td>
                         </tr>
                     </tbody>

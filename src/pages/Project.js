@@ -7,10 +7,10 @@ function Project() {
                 <div className="block-title">2. 프로젝트</div>
             </div>
             <div className="block-content">
-                - <a href="https://github.com/idebtor/JoyAI/blob/master/project_sample/2019-1ProjectSamples.md"> 19-1 모인활  프로젝트 모음</a> <br/>
-                - <a href="https://github.com/idebtor/JoyAI/blob/master/project_sample/2019-2ProjectSamples.md"> 19-2 모인활  프로젝트 모음</a> <br/>
+                - <a href="https://github.com/idebtor/JoyAI/blob/master/project_sample/2019-1ProjectSamples.md" target="_blank"> 19-1 모인활  프로젝트 모음</a> <br/>
+                - <a href="https://github.com/idebtor/JoyAI/blob/master/project_sample/2019-2ProjectSamples.md" target="_blank"> 19-2 모인활  프로젝트 모음</a> <br/>
                 {/*- <a href="https://github.com/idebtor/JoyAI/blob/master/project_sample/2020-1ProjectSamples.md"> 20-1 모인활  프로젝트 모음 - to be updated</a>*/}
-                - <a href="https://github.com/Handong-Promi/JoyAI/blob/master/project_sample/2020-1ProjectSamples.md"> 20-1 모인활  프로젝트 모음</a>
+                - <a href="https://github.com/Handong-Promi/JoyAI/blob/master/project_sample/2020-1ProjectSamples.md" target="_blank"> 20-1 모인활  프로젝트 모음</a>
                 <div>
                     <table class="table table-hover">
                         <thead>
