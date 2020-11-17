@@ -393,21 +393,23 @@ function Lectures() {
                         <tr>
                             <th scope="row" className="table-head-data">12주차 화 (11/17)</th>
                             <td>
-                                기말고사 <br />
+                                기말고사 part 1<br />
+                                기말고사 part 2<br />
                                 프로젝트 진행 및 예비 보고서 작성
                             </td>
                             <td>
                                 <a href="https://piazza.com/class/ke5chv2120x1e3?cid=845" target="_blank"> 기말고사 안내 </a> <br />
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=851" target="_blank"> 기말고사 part 2 </a> <br />
                                 <a href="https://piazza.com/class/ke5chv2120x1e3?cid=839" target="_blank"> 프로젝트 팀 구성 및 일정 안내 </a> <br />
                                 <a href="https://piazza.com/class/ke5chv2120x1e3?cid=840" target="_blank"> 프로젝트 Overview </a> <br />
                             </td>
                             <td>
-                                <div className="in-due">[파이썬 테스트] 11/17(화) 10:30 </div>
-                                <div className="in-due">[AI 테스트] 11/18(수) 10:30 </div>
+                                <div className="over-due">[파이썬 테스트] 11/17(화) 10:30 </div>
+                                <div className="in-due">[AI 테스트] 11/18(수) 10:35 </div>
                                 
                             </td>
                             <td>
-                                -
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=851" target="_blank"> [AI 테스트] 기말고사 part 2 제출 </a> <br/>
                             </td>
                         </tr>
                         <tr>
