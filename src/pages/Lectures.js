@@ -405,7 +405,7 @@ function Lectures() {
                             </td>
                             <td>
                                 <div className="over-due">[파이썬 테스트] 11/17(화) 10:30 </div>
-                                <div className="in-due">[AI 테스트] 11/18(수) 10:35 </div>
+                                <div className="over-due">[AI 테스트] 11/18(수) 10:35 </div>
                                 
                             </td>
                             <td>
@@ -416,11 +416,11 @@ function Lectures() {
                             <th scope="row" className="table-head-data">12주차 금 (11/20)</th>
                             <td>
                                 프로젝트 진행 및 예비 보고서 작성 <br />
-                                <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/course/" target="_blank">KMOOC 12주차 명강의 수강</a> <br/>
+                                <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/course/" target="_blank">KMOOC 12주차 명강의 수강</a>
                             </td>
                             <td>
-                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=841" target="_blank"> 예비 보고서 작성법 및 주의사항 </a>
-                                KMOOC 12주차 명강의 퀴즈 응시<br/>                          
+                                <a href="https://piazza.com/class/ke5chv2120x1e3?cid=841" target="_blank"> 예비 보고서 작성법 및 주의사항 </a> <br />
+                                KMOOC 12주차 명강의 퀴즈 응시                          
                             </td>
                             <td>
                                 <div className="in-due">[예비 보고서] 11/20(금) 23:55 </div>
