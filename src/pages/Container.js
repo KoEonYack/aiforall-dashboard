@@ -21,7 +21,7 @@ function Container() {
                 {/*<KMOOC_AI />*/}
                 <KMOOC_Famouse />
                 {/*<Extra />*/}
-                {/*<Bible />*/}
+                <Bible />
             </div>
             <Footer />
         </div>

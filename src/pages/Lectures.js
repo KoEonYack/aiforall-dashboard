@@ -423,12 +423,32 @@ function Lectures() {
                                 KMOOC 12주차 명강의 퀴즈 응시                          
                             </td>
                             <td>
-                                <div className="in-due">[예비 보고서] 11/20(금) 23:55 </div>
-                                <div className="in-due">[KMOOC] 11/22(일) 23:55 </div>
+                                <div className="over-due">[예비 보고서] 11/20(금) 23:55 </div>
+                                <div className="over-due">[KMOOC] 11/22(일) 23:55 </div>
                             </td>
                             <td>
                                 <a href="https://piazza.com/class/ke5chv2120x1e3?cid=842" target="_blank"> [예비 보고서] 제출 </a> <br/>
                                 기간 내 예비 보고서 제출 및 K-MOOC 퀴즈 응시하면 출석 인정.
+                            </td>
+                        </tr>
+                        {/* ----- 13~15주차 ----- */}
+                        <tr>
+                            <th scope="row" className="table-head-data">13주차~15주차</th>
+                            <td>
+                                프로젝트 진행 및 최종 보고서 작성 <br />
+                                <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/course/" target="_blank">KMOOC 13주차 명강의 수강</a>
+                            </td>
+                            <td>
+                                '2. 프로젝트' 항목 참조 <br />
+                                KMOOC 13주차 명강의 퀴즈 응시                          
+                            </td>
+                            <td>
+                                <div className="in-due">[KMOOC] 11/29(일) 23:55 </div>
+                            </td>
+                            <td>
+                                <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/course/" target="_blank">프로젝트 일정 안내</a> <br />
+                                13주차: 기간 내 명강의 퀴즈 응시하면 출석 인정 <br />
+                                14, 15주차: due date 내에 최종 보고서 제출하면 출석 인정
                             </td>
                         </tr>
                     </tbody>

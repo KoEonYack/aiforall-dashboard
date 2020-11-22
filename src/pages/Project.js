@@ -30,15 +30,15 @@ function Project() {
                                 <td scope="col" class="table-head-data">
                                     <a href="https://piazza.com/class/ke5chv2120x1e3?cid=842">[공지] 예비보고서 제출란</a>
                                 </td>    
-                                <td scope="col" class="table-head-data in-due">12주차 금(11/20) 11:55 PM </td>     
+                                <td scope="col" class="table-head-data over-due">12주차 금(11/20) 11:55 PM </td>     
                             </tr>
-                            {/*
                             <tr>
                                 <th scope="col" class="table-head-data">최종 보고서</th> 
-                                <td scope="col" class="table-head-data"><a href="https://piazza.com/class/k7222vwq8y61ni?cid=898">[공지] 최종 보고서 작성법</a></td>     
-                                <td scope="col" class="table-head-data"><a href="https://piazza.com/class/k7222vwq8y61ni?cid=899">[제출] 최종보고서</a></td>     
-                                <td scope="col" class="table-head-data over-due">15주차 화(12/08) 11:30 AM</td>     
+                                <td scope="col" class="table-head-data"><a href="https://piazza.com/class/ke5chv2120x1e3?cid=897">[공지] 최종 보고서 작성법</a></td>     
+                                <td scope="col" class="table-head-data"><a href="https://piazza.com/class/ke5chv2120x1e3?cid=898">[제출] 최종보고서</a></td>     
+                                <td scope="col" class="table-head-data in-due">15주차 화(12/08) 11:30 AM</td>     
                             </tr>
+                            {/*}
                             <tr>
                                 <th scope="col" class="table-head-data">동료평가</th> 
                                 <td scope="col" class="table-head-data"><a href="https://piazza.com/class/k7222vwq8y61ni?cid=927">[공지] Peer evaluation </a></td>     
