@@ -8,6 +8,7 @@ import PYF from './pyf'
 import Project from './Project'
 import Score from './Score'
 import Bible from './Bible'
+import Photo from './Photo'
 import Footer from './Footer'
 import Button from './Button'
 
@@ -21,7 +22,7 @@ function Container() {
                 {/*<KMOOC_AI />*/}
                 <KMOOC_Famouse />
                 {/*<Extra />*/}
-                <Bible />
+                <Photo />
             </div>
             <Footer />
         </div>
