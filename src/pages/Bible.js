@@ -8,7 +8,7 @@ function Bible() {
             </div>
             <div className="block-content">
                 <br />
-                <img src="https://github.com/Handong-Promi/aiforall-dashboard/blob/master/src/img/week7_8.jpg?raw=true" width="30%"  className="bible-img" />
+                <img src="https://github.com/Handong-Promi/aiforall-dashboard/blob/master/src/img/HGUsky.jpg?raw=true" width="30%"  className="bible-img" />
                 <br/>
                 <center> 
                     가을의 한동 하늘! 언제봐도 예쁜 것 같습니다. :)

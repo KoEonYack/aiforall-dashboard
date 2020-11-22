@@ -28,6 +28,13 @@ App.js
 <td className="in-due">3/05 23:55</td>
 ```
 
+- 이미지 삽입 시
+
+```html
+<img src="https://github.com/Handong-Promi/aiforall-dashboard/blob/master/src/img/HGUsky.jpg?raw=true" width="30%"  className="bible-img" />
+```
+
+> 위 코드와 같이, img source url 맨 끝에 `?raw=true` 붙여줘야 이미지가 정상적으로 출력됨.
 
 ## Local 
 
