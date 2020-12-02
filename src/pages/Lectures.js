@@ -443,7 +443,8 @@ function Lectures() {
                                 KMOOC 13주차 명강의 퀴즈 응시                          
                             </td>
                             <td>
-                                <div className="in-due">[KMOOC] 11/29(일) 23:55 </div>
+                                <div className="in-due">[최종 보고서] 12/08(화) 11:30 </div>
+                                <div className="over-due">[KMOOC] 11/29(일) 23:55 </div>
                             </td>
                             <td>
                                 <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/course/" target="_blank">프로젝트 일정 안내</a> <br />

@@ -20,7 +20,7 @@ function Container() {
                 <Lectures />
                 <Project />
                 {/*<KMOOC_AI />*/}
-                <KMOOC_Famouse />
+                {/*<KMOOC_Famouse /> */}
                 {/*<Extra />*/}
                 <Photo />
             </div>
